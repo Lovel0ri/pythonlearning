@@ -8,10 +8,11 @@ def print_lol(the_list):
             print_lol(each_item)
         else:
             print(each_item)
-def print_lol(the_list,level):
+def print_lol(the_list,level=0):
     """这个函数有一个位置参数叫"the_list",
     这可以是任何python列表（包含或者不包含嵌套列表），
     所提供列表中的各个数据项会（递归地）打印到屏幕上，而且各占一行"""
+    """update:1.2.0增加缺省参数，将函数调用的负责缩进的参数改为可选的参数"""
 
     for each_item in the_list:
         if isinstance(each_item,list):

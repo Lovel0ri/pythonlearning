@@ -6,7 +6,7 @@
 from distutils.core import setup
 setup(
     name    = 'nester1',
-    version = '1.1.0',
+    version = '1.2.0',
     py_modules = ['nester1'],
     author = '作者', #作者
     author_email = '1@qq.com',
