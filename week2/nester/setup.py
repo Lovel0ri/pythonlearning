@@ -6,10 +6,10 @@
 from distutils.core import setup
 setup(
     name    = 'nester1',
-    version = '1.2.0',
+    version = '1.3.1',
     py_modules = ['nester1'],
-    author = '作者', #作者
-    author_email = '1@qq.com',
+    author = '冰冰', #作者
+    author_email = '2697601945@qq.com',
     url = 'http://www.headfristlabs.com',
     description = 'A simple printer of nester lists',#简介内容
 )
