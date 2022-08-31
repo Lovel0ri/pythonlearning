@@ -21,5 +21,5 @@ def print_lol(the_list,indent = False,level=0):
             if indent:
                 for tab_stop in range(level):
                     print("\t"*level, end='')
-                print(each_item)
+            print(each_item)
 

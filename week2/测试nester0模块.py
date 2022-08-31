@@ -23,4 +23,4 @@ import nester1
 movies = ["The Holy grail", 1975, "Terry Jones & Terry Gilliam", 91,
           ["Graham Chapman",
             ["Michael Palin", "John Cleese", "Terry Gilliam", "Eric Idle", "Terry Jones"]]]
-nester1.print_lol(movies,1)
+nester1.print_lol(movies,True)
