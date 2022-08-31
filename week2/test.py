@@ -5,6 +5,4 @@
 import time
 print(time.strftime('%Y-%m-%d %H:%M:%S',time.localtime(time.time())))
 #你好骚杰！
-hello，my boy倪好
-wo ce ni math
-print ('hallo world')
+hello，my boy
