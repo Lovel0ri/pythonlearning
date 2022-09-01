@@ -2,6 +2,10 @@
 # @Author: 李树斌
 # @File : p107.py
 # @Software :PyCharm
+# from nester1 import print_lol
+# import sys
+# sys.path.append("..\nester\build\lib")
+import nester
 
 man = []
 other = []
@@ -53,8 +57,8 @@ except IOError:
 #使用with重写try\except代码减少额外代码
 try:
     with open("data_man.txt",'w') as data_man:
-        print(man,file=data_man)
+        print_lol(man,fh=data_man)
     with open("data_other.txt",'w') as data_other:
-        print(other,file=data_other)
+        print_lol(other,fh=data_other)
 except IOError as err:
     print("File:" + str(err))

@@ -5,9 +5,9 @@
 
 from distutils.core import setup
 setup(
-    name    = 'nester1',
-    version = '1.3.2',
-    py_modules = ['nester1'],
+    name    = 'nesterbing',
+    version = '1.3.7',
+    py_modules = ['nesterbing'],
     author = '冰冰', #作者
     author_email = '2697601945@qq.com',
     url = 'http://www.headfristlabs.com',
