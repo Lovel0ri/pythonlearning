@@ -31,21 +31,30 @@ except IOError:
     print("这个文件不存在")
 # print(man)
 # print(other)
+# try:
+#     data_man = open("data_man.txt", "w")
+#     data_other = open("data_other.txt", "w")
+#
+#     #把台词分别输出到两个data文件
+#     print(man,file=data_man)
+#     print(other,file=data_other)
+#
+#     # data_man.txt.close()#如果上面两个输出有一个出错，这两个文件就无法关闭，可能导致数据丢失被破坏
+#     # data_other.txt.close()
+# except IOError:
+#     print('File error')
+#
+# #如果没有出现任何运行时的错误，会执行finall组中的代码。如果出现IOerror，会执行except组，然后运行finally组。
+# #无论如何都要关闭文件
+# finally:
+#     data_man.close()
+#     data_other.close()
+
+#使用with重写try\except代码减少额外代码
 try:
-    data_man = open("data_man","w")
-    data_other = open("data_other","w")
-
-    #把台词分别输出到两个data文件
-    print(man,file=data_man)
-    print(other,file=data_other)
-
-    # data_man.close()#如果上面两个输出有一个出错，这两个文件就无法关闭，可能导致数据丢失被破坏
-    # data_other.close()
-except IOError:
-    print('File error')
-
-#如果没有出现任何运行时的错误，会执行finall组中的代码。如果出现IOerror，会执行except组，然后运行finally组。
-#无论如何都要关闭文件
-finally:
-    data_man.close()
-    data_other.close()
+    with open("data_man.txt",'w') as data_man:
+        print(man,file=data_man)
+    with open("data_other.txt",'w') as data_other:
+        print(other,file=data_other)
+except IOError as err:
+    print("File:" + str(err))
