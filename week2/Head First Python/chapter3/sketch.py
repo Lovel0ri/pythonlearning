@@ -13,7 +13,7 @@ data = open('sketch.txt')
 # print(data.readline(),end='')
 
 data.seek(0)
-if os.path.exists('sketch.txt')
+if os.path.exists('sketch.txt'):
     for each_line in data:
         if not each_line.find(':') == -1:
             (role, line_spoken) = each_line.split(':', 1)  # 用split赋值到role和line_spoken
