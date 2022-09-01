@@ -31,10 +31,14 @@ except IOError:
     print("这个文件不存在")
 # print(man)
 # print(other)
+try:
+    data_man = open("data_man","w")
+    data_other = open("data_other","w")
 
-data_man = open("data_man","w")
-data_other = open("data_other","w")
-
-#把台词分别输出到两个data文件
-print(man,file=data_man)
-print(other,file=data_other)
+    #把台词分别输出到两个data文件
+    print(man,file=data_man)
+    print(other,file=data_other)
+    data_man.close()
+    data_other.close()
+except IOError:
+    print('File error')
