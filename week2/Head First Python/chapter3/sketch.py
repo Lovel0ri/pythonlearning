@@ -13,11 +13,13 @@ data = open('sketch.txt')
 # print(data.readline(),end='')
 
 data.seek(0)
-for each_line in data:
-    if not each_line.find(':') == -1:
-        (role, line_spoken) = each_line.split(':', 1)  # 用split赋值到role和line_spoken
-        print(role, end='')  # end=' '意思是末尾不换行，加空格
-        print(" said:", end='')
-        print(line_spoken, end='')
-
+if os.path.exists('sketch.txt')
+    for each_line in data:
+        if not each_line.find(':') == -1:
+            (role, line_spoken) = each_line.split(':', 1)  # 用split赋值到role和line_spoken
+            print(role, end='')  # end=' '意思是末尾不换行，加空格
+            print(" said:", end='')
+            print(line_spoken, end='')
+else:
+    print('这个文件已经被删除')
 data.close()
