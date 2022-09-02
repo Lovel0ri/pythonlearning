@@ -2,10 +2,12 @@
 # @Author: 李树斌
 # @File : p107.py
 # @Software :PyCharm
-# from nester1 import print_lol
+import nesterbing
+#import本地的模块报错解决办法 https://blog.csdn.net/gaoqing_dream163/article/details/109219452
+#https://blog.csdn.net/m0_51711485/article/details/124119651?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166207906016782412546982%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=166207906016782412546982&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-124119651-null-null.142^v44^new_blog_pos_by_title&utm_term=pycharm%E4%BF%AE%E6%94%B9%E5%BC%95%E5%85%A5%E6%A8%A1%E5%9D%97%E7%9A%84%E8%B7%AF%E5%BE%84&spm=1018.2226.3001.4187
 # import sys
-# sys.path.append("..\nester\build\lib")
-import nester
+# sys.path.append("")
+
 
 man = []
 other = []
@@ -57,8 +59,8 @@ except IOError:
 #使用with重写try\except代码减少额外代码
 try:
     with open("data_man.txt",'w') as data_man:
-        print_lol(man,fh=data_man)
+        nesterbing.print_lol(man,fh=data_man)
     with open("data_other.txt",'w') as data_other:
-        print_lol(other,fh=data_other)
+        nesterbing.print_lol(other,fh=data_other)
 except IOError as err:
     print("File:" + str(err))

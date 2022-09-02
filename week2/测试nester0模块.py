@@ -4,7 +4,7 @@
 # @Software : PyCharm
 
 #暂时有bug没修复，无法调用nester1(已修复）
-import nester1
+import nesterbing
 # def print_lol(the_list,indent = False,level=0):
 #     """这个函数有一个位置参数叫"the_list",
 #     这可以是任何python列表（包含或者不包含嵌套列表），
@@ -23,4 +23,4 @@ import nester1
 movies = ["The Holy grail", 1975, "Terry Jones & Terry Gilliam", 91,
           ["Graham Chapman",
             ["Michael Palin", "John Cleese", "Terry Gilliam", "Eric Idle", "Terry Jones"]]]
-nester1.print_lol(movies,True)
+nesterbing.print_lol(movies,True)

@@ -9,8 +9,9 @@
     </content>
     <content url="file://$MODULE_DIR$/../../软件应用">
       <sourceFolder url="file://$MODULE_DIR$/../../软件应用" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../软件应用/Lib/site-packages" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (pythonlearning) (2)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
