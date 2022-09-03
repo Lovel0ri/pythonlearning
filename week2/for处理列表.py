@@ -8,7 +8,7 @@
 
 #创建列表
 import nesterbing
-import nester2016
+
 movies = [ "The Holy grail", "The life of Brian"]
 for each_movie in movies:
     nesterbing.print_lol(each_movie)
