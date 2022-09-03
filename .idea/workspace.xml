@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week2/Head First Python/chapter5/创建优化4个with的函数.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/Head First Python/chapter5/get_coach_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/Head First Python/chapter5/get_coach_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week2/Head First Python/chapter5/p140+p145+p152.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/Head First Python/chapter5/p140+p145+p152.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -209,7 +209,7 @@
       <workItem from="1662183791326" duration="12835000" />
       <workItem from="1662197685176" duration="870000" />
       <workItem from="1662198610012" duration="4110000" />
-      <workItem from="1662204758778" duration="5389000" />
+      <workItem from="1662204758778" duration="5568000" />
     </task>
     <task id="LOCAL-00001" summary="重新提交完整的库">
       <created>1662127101086</created>
@@ -281,7 +281,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662214890237</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="构造get_counch_data，减少with代码">
+      <created>1662215937615</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662215937615</updated>
+    </task>
+    <task id="LOCAL-00012" summary="构造get_coach_data，减少with代码">
+      <created>1662216037241</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662216037241</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -309,10 +323,12 @@
     <MESSAGE value="重新安装sanitizeb模块并调用" />
     <MESSAGE value="用列表推导重写代码" />
     <MESSAGE value="使用set工厂函数去除重复项" />
-    <option name="LAST_COMMIT_MESSAGE" value="使用set工厂函数去除重复项" />
+    <MESSAGE value="构造get_counch_data，减少with代码" />
+    <MESSAGE value="构造get_coach_data，减少with代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="构造get_coach_data，减少with代码" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonlearning$p140_p145_p152__1_.coverage" NAME="p140+p145+p152 (1) Coverage Results" MODIFIED="1662215903540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
+    <SUITE FILE_PATH="coverage/pythonlearning$p140_p145_p152__1_.coverage" NAME="p140+p145+p152 (1) Coverage Results" MODIFIED="1662216052599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
     <SUITE FILE_PATH="coverage/pythonlearning$p140.coverage" NAME="p140 Coverage Results" MODIFIED="1662186422463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
     <SUITE FILE_PATH="coverage/pythonlearning$p149.coverage" NAME="p149 Coverage Results" MODIFIED="1662189082105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
     <SUITE FILE_PATH="coverage/pythonlearning$p140_p145__1_.coverage" NAME="p140+p145 (1) Coverage Results" MODIFIED="1662190031052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />

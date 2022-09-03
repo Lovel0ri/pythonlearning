@@ -3,11 +3,11 @@
 # @File : get_coach_data.py
 # @Software :PyCharm
 
-def get_couch_data(filename):
+def get_coach_data(filename):
     try:
         with open(filename) as f:
             data = f.readline()
-            return (data.strip(.split(',')))
+            return (data.strip().split(','))
     except IOError as ioerr:
         print("File error" + str(ioerr))
         return (None)
