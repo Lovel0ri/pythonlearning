@@ -2,15 +2,18 @@
 # @Author: 李树斌
 # @File : p140+p145+p152.py
 # @Software :PyCharm
-def sanitize(time_string):
-    if '-' in time_string:
-        splitter = '-'
-    elif '.' in time_string:
-        splitter = '.'
-    else:
-        return (time_string)
-    (mins, secs) = time_string.split(splitter)
-    return (mins + ':' + secs)
+import sanitizeb
+
+import nesterbing
+# def sanitize(time_string):
+#     if '-' in time_string:
+#         splitter = '-'
+#     elif '.' in time_string:
+#         splitter = '.'
+#     else:
+#         return (time_string)
+#     (mins, secs) = time_string.split(splitter)
+#     return (mins + ':' + secs)
 
 with open("hfpy_ch5_data/james.txt") as jaf:
     data = jaf.readline()
@@ -35,13 +38,13 @@ clean_mikey = []
 clean_sarah = []
 
 for each_t in james:
-    clean_james.append(sanitize(each_t))
+    clean_james.append(sanitizeb.sanitizeb(each_t))
 for each_t in julie:
-    clean_julie.append(sanitize(each_t))
+    clean_julie.append(sanitizeb.sanitizeb(each_t))
 for each_t in mikey:
-    clean_mikey.append(sanitize(each_t))
+    clean_mikey.append(sanitizeb.sanitizeb(each_t))
 for each_t in sarah:
-    clean_sarah.append(sanitize(each_t))
+    clean_sarah.append(sanitizeb.sanitizeb(each_t))
 print(clean_james)
 print(clean_julie)
 print(clean_mikey)

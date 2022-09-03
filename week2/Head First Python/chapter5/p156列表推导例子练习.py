@@ -2,17 +2,9 @@
 # @Author: 李树斌
 # @File : p156列表推导例子练习.py
 # @Software :PyCharm
+from sanitizeb import sanitizeb
 
 
-def sanitize(time_string):
-    if '-' in time_string:
-        splitter = '-'
-    elif ':' in time_string:
-        splitter = ':'
-    else:
-        return (time_string)
-    (mins, secs) = time_string.strip().split(splitter)
-    return (mins+'.'+secs)
 # mins = [1,2,3]
 # secs = [m*60 for m in mins]
 # print(secs)
@@ -25,7 +17,8 @@ def sanitize(time_string):
 # print(upper)
 
 dirty = ['2-22','2:22','2.22']
-clean = [float(sanitize(t)) for t in ['2-22','2.22','2:22']]
+clean = [float(s) for s in dirty]
+# clean = [float(sanitizeb(t)) for t in ['2-22','2.22','2:22']]
 
 print(clean)
 

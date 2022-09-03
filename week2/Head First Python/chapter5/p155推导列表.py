@@ -2,7 +2,7 @@
 # @Author: 李树斌
 # @File : p155推导列表.py
 # @Software :PyCharm
-import p149sanitize
+
 """
 
 clean_mikey = []#1.创建

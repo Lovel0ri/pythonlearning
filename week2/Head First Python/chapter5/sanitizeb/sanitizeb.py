@@ -3,7 +3,7 @@
 # @File : p149sanitize.py
 # @Software :PyCharm
 
-def sanitize(time_string):
+def sanitizeb(time_string):
     if '-' in time_string:
         splitter = '-'
     elif ':' in time_string:
