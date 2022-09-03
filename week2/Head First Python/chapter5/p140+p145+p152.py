@@ -14,7 +14,7 @@ def sanitize(time_string):
 
 with open("hfpy_ch5_data/james.txt") as jaf:
     data = jaf.readline()
-    james=data.strip().split(',')
+    james=data.strip().split(',')#split() 通过指定分隔符对字符串进行切片
 with open("hfpy_ch5_data/julie.txt") as juf:
     data = juf.readline()
     julie=data.strip().split(',')
