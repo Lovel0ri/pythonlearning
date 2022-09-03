@@ -18,3 +18,6 @@ for each_item in movies:
                 print(nested_item)
     else:
         print(each_item)
+
+
+

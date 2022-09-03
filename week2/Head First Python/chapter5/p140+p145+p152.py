@@ -2,7 +2,7 @@
 # @Author: 李树斌
 # @File : p140+p145+p152.py
 # @Software :PyCharm
-import sanitizeb
+from sanitizeb import sanitizeb
 
 import nesterbing
 # def sanitize(time_string):
@@ -32,19 +32,19 @@ with open("hfpy_ch5_data/sarah.txt") as saf:
 # mikeyp =sorted(mikey)
 # sarahp =sorted(sarah)
 
-clean_james =[]
-clean_julie = []
-clean_mikey = []
-clean_sarah = []
+clean_james =sorted([sanitizeb(t) for t in james])
+clean_julie = sorted([sanitizeb(t) for t in julie])
+clean_mikey = sorted([sanitizeb(t) for t in mikey])
+clean_sarah = sorted([sanitizeb(t) for t in sarah])
 
-for each_t in james:
-    clean_james.append(sanitizeb.sanitizeb(each_t))
-for each_t in julie:
-    clean_julie.append(sanitizeb.sanitizeb(each_t))
-for each_t in mikey:
-    clean_mikey.append(sanitizeb.sanitizeb(each_t))
-for each_t in sarah:
-    clean_sarah.append(sanitizeb.sanitizeb(each_t))
+# for each_t in james:
+#     clean_james.append(sanitizeb.sanitizeb(each_t))
+# for each_t in julie:
+#     clean_julie.append(sanitizeb.sanitizeb(each_t))
+# for each_t in mikey:
+#     clean_mikey.append(sanitizeb.sanitizeb(each_t))
+# for each_t in sarah:
+#     clean_sarah.append(sanitizeb.sanitizeb(each_t))
 print(clean_james)
 print(clean_julie)
 print(clean_mikey)
