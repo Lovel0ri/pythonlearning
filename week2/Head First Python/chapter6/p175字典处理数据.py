@@ -13,7 +13,7 @@ class Athlete:
     def add_time(self,time_value):
         self.times.append(time_value)
     def add_times(self,list_of_times):
-        self.times.append(list_of_times)
+        self.times.extend(list_of_times)
 
 def sanitizeb(time_string):
     if '-' in time_string:
@@ -40,6 +40,11 @@ def get_coach_data(filename):
 
 sarah = get_coach_data("hfpy_ch6_data/sarah2.txt")
 james = get_coach_data("hfpy_ch6_data/james2.txt")
+vera = Athlete('Vera Vi')
+vera.add_time('1.31')
+print(vera.top3())
+vera.add_times(['2.22','1-21','2:22'])
+print(vera.top3())
 # (sarah_name,sarah_dob) = sarah.pop(0),sarah.pop(0)
 # #唯一可下标的内置函数：
 # # string:  "foobar"[3] == "b"
