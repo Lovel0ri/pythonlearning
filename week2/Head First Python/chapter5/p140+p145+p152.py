@@ -3,7 +3,7 @@
 # @File : p140+p145+p152.py
 # @Software :PyCharm
 import sanitizeb
-
+import get_coach_data
 
 # def sanitize(time_string):
 #     if '-' in time_string:
@@ -30,18 +30,18 @@ import sanitizeb
 #     sarah = data.strip().split(',')
 
 
-def get_couch_data(filename):
-    try:
-        with open(filename) as f:
-            data = f.readline()
-            return (data.strip().split(','))
-    except IOError as ioerr:
-        print("File error" + str(ioerr))
-        return (None)
-james = get_couch_data("hfpy_ch5_data/james.txt")
-julie = get_couch_data("hfpy_ch5_data/james.txt")
-mikey = get_couch_data("hfpy_ch5_data/mikey.txt")
-sarah = get_couch_data("hfpy_ch5_data/sarah.txt")
+# def get_couch_data(filename):
+#     try:
+#         with open(filename) as f:
+#             data = f.readline()
+#             return (data.strip().split(','))
+#     except IOError as ioerr:
+#         print("File error" + str(ioerr))
+#         return (None)
+james = get_coach_data.get_couch_data("hfpy_ch5_data/james.txt")
+julie = get_coach_data.get_couch_data("hfpy_ch5_data/james.txt")
+mikey = get_coach_data.get_couch_data("hfpy_ch5_data/mikey.txt")
+sarah = get_coach_data.get_couch_data("hfpy_ch5_data/sarah.txt")
 print(sorted(set([sanitizeb.sanitizeb(t) for t in james]))[0:3])
 print(sorted(set([sanitizeb.sanitizeb(t) for t in julie]))[0:3])
 print(sorted(set([sanitizeb.sanitizeb(t) for t in mikey]))[0:3])
