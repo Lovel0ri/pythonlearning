@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/6.1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/6.2.2添加键值对.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.6.1">
+  <component name="RunManager" selected="Python.6.2.2添加键值对">
     <configuration name="6.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,6 +70,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/6.1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.2.2添加键值对" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/6.2.2添加键值对.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,28 +144,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p194创建类Athlete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2/Head First Python/chapter6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/Head First Python/chapter6/p194创建类Athlete.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="p206继承python的内置list类" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6.2.2添加键值对" />
         <item itemvalue="Python.6.1" />
         <item itemvalue="Python.p175字典处理数据 (1)" />
         <item itemvalue="Python.p206继承python的内置list类" />
         <item itemvalue="Python.p140+p145+p152" />
-        <item itemvalue="Python.p194创建类Athlete" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +207,7 @@
       <workItem from="1662224349139" duration="4751000" />
       <workItem from="1662258072679" duration="9822000" />
       <workItem from="1662269847271" duration="3746000" />
-      <workItem from="1662274406002" duration="3761000" />
+      <workItem from="1662274406002" duration="4073000" />
     </task>
     <task id="LOCAL-00001" summary="重新提交完整的库">
       <created>1662127101086</created>
@@ -343,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662276429433</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="创建一个简单字典">
+      <created>1662278932944</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1662278932944</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,7 +386,8 @@
     <MESSAGE value="追加时间" />
     <MESSAGE value="修复add_times 函数使用错误" />
     <MESSAGE value="完成p210代码重写和数据输出" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成p210代码重写和数据输出" />
+    <MESSAGE value="创建一个简单字典" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建一个简单字典" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonlearning$pickle.coverage" NAME="调用pickle库 Coverage Results" MODIFIED="1662223663512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter4" />
@@ -396,7 +403,8 @@
     <SUITE FILE_PATH="coverage/pythonlearning$p175.coverage" NAME="p175 Coverage Results" MODIFIED="1662227018688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter6" />
     <SUITE FILE_PATH="coverage/pythonlearning$p140_p145__1_.coverage" NAME="p140+p145 (1) Coverage Results" MODIFIED="1662190031052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
     <SUITE FILE_PATH="coverage/pythonlearning$p156.coverage" NAME="p156列表推导例子练习 Coverage Results" MODIFIED="1662196888595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
-    <SUITE FILE_PATH="coverage/pythonlearning$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1662278490829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
+    <SUITE FILE_PATH="coverage/pythonlearning$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1662278879208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
+    <SUITE FILE_PATH="coverage/pythonlearning$6_2_2.coverage" NAME="6.2.2添加键值对 Coverage Results" MODIFIED="1662278995837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
     <SUITE FILE_PATH="coverage/pythonlearning$p175__1_.coverage" NAME="p175字典处理数据 (1) Coverage Results" MODIFIED="1662276405981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter6" />
   </component>
 </project>
