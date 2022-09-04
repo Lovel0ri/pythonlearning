@@ -2,19 +2,15 @@
 # @Author: 李树斌
 # @File : week2 homework0.py
 # @Software : PyCharm
-
-#引用时间模板
-# import time
 import time
 #设置好上下课时间
 time_shangkehour = 14
 time_shangkemin = 30
 time_xiakehour = 16
 time_xiakemin = 50
-
 timehour = int(time.strftime('%H'))
 timemin = int(time.strftime('%M'))
-
+days = {'星期一','星期二','星期三','星期四','星期五',"星期六",'星期天'}
 # 获取时间
 # print(localtime)
 today = time.localtime().tm_wday
@@ -23,7 +19,6 @@ if today == 1:
     print(f"现在是{time.strftime('%H:%M', time.localtime(time.time()))}")
     if timehour <= time_shangkehour:
         print("还没开始上课哈哈")
-
     else:
     # 判断现在时间是否是2点
         if timehour == time_shangkehour:
@@ -37,7 +32,6 @@ if today == 1:
             print("专心上课")
         else:
             print("下课啦")
-
 else:
 	print("今天没有python课")
 

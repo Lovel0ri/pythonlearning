@@ -9,15 +9,16 @@ favourite_languages = {
     'edward': 'ruby',
     'phil': 'python',
 }
-# for names in favourite_languages.keys():
-#     print(names)
-# #默认遍历所有的键
-# for names in favourite_languages:
-#     print(names)
-
+for names in favourite_languages.keys():
+    print(names)
+#默认遍历所有的键
+for names in favourite_languages:
+    print(names)
+# print({favourite_languages.get('jen')})
 friends = ['phil','Sarah']
 for name in favourite_languages.keys():
     print(f"Hello,{name.title()}.")
+
     if name in friends:
         language = favourite_languages[name].title()
 
