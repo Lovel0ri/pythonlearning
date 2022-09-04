@@ -9,6 +9,12 @@ class Athlete:
         self.times = a_times
     def top3 (self):
         return(sorted(set([sanitizeb(t) for t in self.times]))[0:3])
+
+    def add_time(self,time_value):
+        self.times.append(time_value)
+    def add_times(self,list_of_times):
+        self.times.append(list_of_times)
+
 def sanitizeb(time_string):
     if '-' in time_string:
         splitter = '-'

@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week2/Head First Python/chapter6/p194创建类Athlete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/code.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week2/Head First Python/chapter6/p175字典处理数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/Head First Python/chapter6/p175字典处理数据.py" afterDir="false" />
     </list>
@@ -45,14 +43,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/网络与新媒体/github/pythonlearning/week2/Head First Python/chapter5/get_coach_data/dist/get_coach_data-1.1.0.tar.gz",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/网络与新媒体/github/pythonlearning/week2/Head First Python/chapter5/get_coach_data/dist/get_coach_data-1.1.0.tar.gz&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
@@ -208,7 +206,8 @@
       <workItem from="1662204758778" duration="7846000" />
       <workItem from="1662223356594" duration="727000" />
       <workItem from="1662224349139" duration="4751000" />
-      <workItem from="1662258072679" duration="9540000" />
+      <workItem from="1662258072679" duration="9822000" />
+      <workItem from="1662269847271" duration="1003000" />
     </task>
     <task id="LOCAL-00001" summary="重新提交完整的库">
       <created>1662127101086</created>
@@ -315,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662259441757</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="创建类并优化代码">
+      <created>1662269568396</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1662269568396</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,7 +354,8 @@
     <MESSAGE value="修改函数拼写错误" />
     <MESSAGE value="p175练习提交" />
     <MESSAGE value="p182用字典处理数据" />
-    <option name="LAST_COMMIT_MESSAGE" value="p182用字典处理数据" />
+    <MESSAGE value="创建类并优化代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建类并优化代码" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonlearning$pickle.coverage" NAME="调用pickle库 Coverage Results" MODIFIED="1662223663512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter4" />
