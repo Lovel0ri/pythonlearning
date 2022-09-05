@@ -13,3 +13,9 @@ for name in names:
 transportation = ['bicycle','plane','bus','car']
 for trans in transportation:
     print(f"I would like to to own a {trans}.)
+
+#.append 在列表末尾添加元素
+#.insert( 位置参数,内容 )在列表插入元素
+#.pop 弹出列表最后一位的元素
+#del list()
+#.remove()
