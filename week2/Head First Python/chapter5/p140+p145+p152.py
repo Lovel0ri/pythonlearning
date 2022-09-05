@@ -3,8 +3,16 @@
 # @File : p140+p145+p152.py
 # @Software :PyCharm
 import sanitizeb
-import get_coach_data
+from get_coach_data import get_coach_data
 
+james = get_coach_data("hfpy_ch5_data/james.txt")
+julie = get_coach_data("hfpy_ch5_data/james.txt")
+mikey = get_coach_data("hfpy_ch5_data/mikey.txt")
+sarah = get_coach_data("hfpy_ch5_data/sarah.txt")
+print(sorted(set([sanitizeb.sanitizeb(t) for t in james]))[0:3])
+print(sorted(set([sanitizeb.sanitizeb(t) for t in julie]))[0:3])
+print(sorted(set([sanitizeb.sanitizeb(t) for t in mikey]))[0:3])
+print(sorted(set([sanitizeb.sanitizeb(t) for t in sarah]))[0:3])
 # def sanitize(time_string):
 #     if '-' in time_string:
 #         splitter = '-'
@@ -38,14 +46,7 @@ import get_coach_data
 #     except IOError as ioerr:
 #         print("File error" + str(ioerr))
 #         return (None)
-james = get_coach_data.get_couch_data("hfpy_ch5_data/james.txt")
-julie = get_coach_data.get_couch_data("hfpy_ch5_data/james.txt")
-mikey = get_coach_data.get_couch_data("hfpy_ch5_data/mikey.txt")
-sarah = get_coach_data.get_couch_data("hfpy_ch5_data/sarah.txt")
-print(sorted(set([sanitizeb.sanitizeb(t) for t in james]))[0:3])
-print(sorted(set([sanitizeb.sanitizeb(t) for t in julie]))[0:3])
-print(sorted(set([sanitizeb.sanitizeb(t) for t in mikey]))[0:3])
-print(sorted(set([sanitizeb.sanitizeb(t) for t in sarah]))[0:3])
+
 
 # unique_james = []
 #
