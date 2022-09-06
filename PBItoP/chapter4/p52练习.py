@@ -35,3 +35,11 @@
 #         numbers.append(value)
 #         for number in numbers:
 #             print(number)
+
+#4-8
+# triple_numbers = [value**3 for value in range(1,11)]
+# for number in triple_numbers:
+#     print(number)
+
+#4-9
+print([value**3 for value in range(1,11)])
