@@ -12,8 +12,11 @@
 prompt = "I will repeat to you "
 prompt+= "\nTell me ,what would you say to me "
 message = ""
-while message != 'quit':
+active = True
+while active:
     message = input(prompt)
-    if message != 'quit':
-        print(message)
 
+    if message == "quit":
+       break#active = False
+    else:
+        print(message)
