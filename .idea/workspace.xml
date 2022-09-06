@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PBItoP/chapter4/4.5元组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PBItoP/chapter4/p57练习.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PBItoP/chapter4/4.5元组.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter4/4.5元组.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,7 @@
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.p57练习">
+  <component name="RunManager" selected="Python.4.5元组">
     <configuration name="4.4切片" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,7 +79,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p48" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.5元组" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,7 +92,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PBItoP/chapter4/p48.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PBItoP/chapter4/4.5元组.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -171,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.5元组" />
         <item itemvalue="Python.p57练习" />
         <item itemvalue="Python.4.4切片" />
         <item itemvalue="Python.p52练习" />
         <item itemvalue="Python.p4.3.2" />
-        <item itemvalue="Python.p48" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +213,7 @@
       <workItem from="1662377983510" duration="2244000" />
       <workItem from="1662387767567" duration="3000" />
       <workItem from="1662436513369" duration="309000" />
-      <workItem from="1662455894191" duration="5279000" />
+      <workItem from="1662455894191" duration="5594000" />
     </task>
     <task id="LOCAL-00001" summary="重新提交完整的库">
       <created>1662127101086</created>
@@ -476,7 +474,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662460557335</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="p57练习">
+      <created>1662461234450</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1662461234450</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -495,7 +500,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="构造get_counch_data，减少with代码" />
     <MESSAGE value="构造get_coach_data，减少with代码" />
     <MESSAGE value="修改函数拼写错误" />
     <MESSAGE value="p175练习提交" />
@@ -520,7 +524,8 @@
     <MESSAGE value="4.3.2-3.4书本练习" />
     <MESSAGE value="p52书本练习" />
     <MESSAGE value="切片练习，复制列表练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="切片练习，复制列表练习" />
+    <MESSAGE value="p57练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="p57练习" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonlearning$p4_3_2.coverage" NAME="p4.3.2 Coverage Results" MODIFIED="1662457329637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PBItoP/chapter4" />
@@ -545,6 +550,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$6_3_2.coverage" NAME="6.3.2遍历字典中的所有值 Coverage Results" MODIFIED="1662301023126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
     <SUITE FILE_PATH="coverage/pythonlearning$p100.coverage" NAME="p100练习 Coverage Results" MODIFIED="1662376939550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
     <SUITE FILE_PATH="coverage/pythonlearning$6_3.coverage" NAME="6.3遍历字典 Coverage Results" MODIFIED="1662291604946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
+    <SUITE FILE_PATH="coverage/pythonlearning$4_5.coverage" NAME="4.5元组 Coverage Results" MODIFIED="1662461537392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PBItoP/chapter4" />
     <SUITE FILE_PATH="coverage/pythonlearning$p48.coverage" NAME="p48 Coverage Results" MODIFIED="1662456341635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PBItoP/chapter4" />
     <SUITE FILE_PATH="coverage/pythonlearning$week2_homework0.coverage" NAME="week2 homework0 Coverage Results" MODIFIED="1662306787488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" />
     <SUITE FILE_PATH="coverage/pythonlearning$timetable.coverage" NAME="timetable Coverage Results" MODIFIED="1662311109892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../2022-python" />

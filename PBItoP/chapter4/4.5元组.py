@@ -3,3 +3,7 @@
 # @File : 4.5元组.py
 # @Software :PyCharm
 
+nummber = (200,100)
+print(nummber[0])
+nummber = (400,100)
+print(nummber[0])
