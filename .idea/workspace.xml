@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="p110练习">
-      <change afterPath="$PROJECT_DIR$/week3 PBItoP/chapter 7/7.3使用while循环处理列表和字典.py" afterDir="false" />
+    <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -223,7 +222,7 @@
       <workItem from="1662436513369" duration="309000" />
       <workItem from="1662455894191" duration="10178000" />
       <workItem from="1662466849550" duration="833000" />
-      <workItem from="1662467700449" duration="3864000" />
+      <workItem from="1662467700449" duration="4473000" />
     </task>
     <task id="LOCAL-00001" summary="重新提交完整的库">
       <created>1662127101086</created>
@@ -540,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662469370893</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="在列表之间移动元素">
+      <created>1662474897071</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1662474897071</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +565,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="完成p210代码重写和数据输出" />
     <MESSAGE value="创建一个简单字典" />
     <MESSAGE value="学习添加键值对" />
     <MESSAGE value="修改字典中的值" />
@@ -584,7 +589,8 @@
     <MESSAGE value="7.2.3while循环加入continue" />
     <MESSAGE value="x +=1 避免无限循环" />
     <MESSAGE value="p110练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="p110练习" />
+    <MESSAGE value="在列表之间移动元素" />
+    <option name="LAST_COMMIT_MESSAGE" value="在列表之间移动元素" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonlearning$7_1input.coverage" NAME="7.1input Coverage Results" MODIFIED="1662464717974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PBItoP/chapter 7" />
