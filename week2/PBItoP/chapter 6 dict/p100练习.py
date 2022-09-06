@@ -49,3 +49,27 @@ favorite_places = {
 infos = []
 for name,info in favorite_places.items():
     print(f"{name}'s favourite places are : {info}")
+# 中大南方 ="https://www.nfu.edu.cn/ztb/index.htm"
+# for page in range(27):
+#     print(f"https://www.nfu.edu.cn/ztb/index{str(page)}.htm")
+
+#6-11
+cities = {
+    'guangzhou':{
+        'country':'China',
+        'population':'18',
+        'fact':'G'
+    },
+    'shanghai':{
+        'country':'China',
+        'population':'20',
+        'fact':'S'
+    },
+    'paris':{
+        'countrty':'France',
+        'population':'5',
+        'fact':'P'
+    }
+}
+for city_name,info in cities.items():
+    print(f"{city_name}:{info}")
