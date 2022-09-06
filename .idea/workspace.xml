@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/PBItoP/chapter4/p48.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/code.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/code.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 3 list/p30.py" beforeDir="false" afterPath="$PROJECT_DIR$/week2/PBItoP/chapter 3 list/p30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 3 list/p30.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 3 list/p30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 3 list/p39.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 3 list/p39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/6.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 6 dict/6.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/6.2.2添加键值对.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 6 dict/6.2.2添加键值对.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/6.2.6有类似对象组成的字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 6 dict/6.2.6有类似对象组成的字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/6.2.7使用get（）访问值.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 6 dict/6.2.7使用get（）访问值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/6.3.2遍历字典中的所有值.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 6 dict/6.3.2遍历字典中的所有值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/6.3.3按特定顺序遍历字典中的所有键.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 6 dict/6.3.3按特定顺序遍历字典中的所有键.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/6.3遍历字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 6 dict/6.3遍历字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/6.4.3在字典中存储字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 6 dict/6.4.3在字典中存储字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/p100练习.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 6 dict/p100练习.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/p88练习.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 6 dict/p88练习.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/创建空字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 6 dict/创建空字典.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/删除键值对.py" beforeDir="false" afterPath="$PROJECT_DIR$/PBItoP/chapter 6 dict/删除键值对.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,42 +58,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/网络与新媒体/github/pythonlearning/week2/Head First Python/chapter5/get_coach_data/dist/get_coach_data-1.1.0.tar.gz&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/网络与新媒体/github/pythonlearning",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\网络与新媒体\github\pythonlearning" />
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.p30">
-    <configuration name="6.2.7使用get（）访问值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict/6.2.7使用get（）访问值.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.p48">
     <configuration name="6.4.3在字典中存储字典" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,6 +139,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="p48" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PBItoP/chapter4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PBItoP/chapter4/p48.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="timetable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p48" />
         <item itemvalue="Python.p30" />
         <item itemvalue="Python.p100练习" />
         <item itemvalue="Python.6.4.3在字典中存储字典" />
         <item itemvalue="Python.timetable" />
-        <item itemvalue="Python.6.2.7使用get（）访问值" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +226,10 @@
       <workItem from="1662269847271" duration="3746000" />
       <workItem from="1662274406002" duration="29099000" />
       <workItem from="1662371741712" duration="6031000" />
-      <workItem from="1662377983510" duration="2194000" />
+      <workItem from="1662377983510" duration="2244000" />
+      <workItem from="1662387767567" duration="3000" />
+      <workItem from="1662436513369" duration="309000" />
+      <workItem from="1662455894191" duration="446000" />
     </task>
     <task id="LOCAL-00001" summary="重新提交完整的库">
       <created>1662127101086</created>
@@ -429,7 +448,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662377345078</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="补充列表练习">
+      <created>1662380242682</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1662380242682</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +474,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="提交p152练习" />
     <MESSAGE value="修改sanitize修复valueerror错误" />
     <MESSAGE value="重新安装sanitizeb模块并调用" />
     <MESSAGE value="用列表推导重写代码" />
@@ -473,7 +498,8 @@
     <MESSAGE value="week2作业2.0版" />
     <MESSAGE value="6.4.3在字典中存储字典" />
     <MESSAGE value="完成chapter3 list p30练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成chapter3 list p30练习" />
+    <MESSAGE value="补充列表练习" />
+    <option name="LAST_COMMIT_MESSAGE" value="补充列表练习" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonlearning$p140_p145_p152__1_.coverage" NAME="p140+p145+p152 (1) Coverage Results" MODIFIED="1662216117849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
@@ -496,6 +522,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$6_3_2.coverage" NAME="6.3.2遍历字典中的所有值 Coverage Results" MODIFIED="1662301023126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
     <SUITE FILE_PATH="coverage/pythonlearning$p100.coverage" NAME="p100练习 Coverage Results" MODIFIED="1662376939550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
     <SUITE FILE_PATH="coverage/pythonlearning$6_3.coverage" NAME="6.3遍历字典 Coverage Results" MODIFIED="1662291604946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
+    <SUITE FILE_PATH="coverage/pythonlearning$p48.coverage" NAME="p48 Coverage Results" MODIFIED="1662456341635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PBItoP/chapter4" />
     <SUITE FILE_PATH="coverage/pythonlearning$week2_homework0.coverage" NAME="week2 homework0 Coverage Results" MODIFIED="1662306787488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2" />
     <SUITE FILE_PATH="coverage/pythonlearning$timetable.coverage" NAME="timetable Coverage Results" MODIFIED="1662311109892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../2022-python" />
     <SUITE FILE_PATH="coverage/pythonlearning$p140.coverage" NAME="p140 Coverage Results" MODIFIED="1662186422463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />

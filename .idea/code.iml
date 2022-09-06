@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/week1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/week2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/week2/Head First Python" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PBItoP" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.8 (pythonlearning)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
