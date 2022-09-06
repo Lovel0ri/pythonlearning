@@ -39,3 +39,13 @@ pets_1 = [aeby,lucy]
 
 for pet in pets_1:
     print(pet)
+
+#6-9
+favorite_places = {
+    'bingbing':['litang', 'dongfan','saojiehome'],
+    'caojie':['litang','guangwai','shunde'],
+    'juju':['dongguan','dongfan','chabaidao']
+}
+infos = []
+for name,info in favorite_places.items():
+    print(f"{name}'s favourite places are : {info}")
