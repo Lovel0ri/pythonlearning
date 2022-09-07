@@ -18,10 +18,10 @@ users = {
 }
 
 for users_name,users_info in users.items():
-    print(f"\n Username : {users_name}")
+    print(f"\nUsername : {users_name}")
     full_name = f"{users_info['first']} {users_info['last']}"
     location = users_info['location']
 
 
-    print(f"\t Full name : {full_name.title()}")
+    print(f"\tFull name : {full_name.title()}")
     print(f"\tlocation: {location.title()}")

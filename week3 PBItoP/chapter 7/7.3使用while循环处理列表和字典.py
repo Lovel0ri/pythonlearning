@@ -12,6 +12,6 @@ while unconfirmed_users:
     confirmed_users.append(current_user)
 
     #显示已经验证的用户
-    print(f"\n The following user have been confirmed:")
-    for confirmed_user in confirmed_users:
-        print(confirmed_user.title())
+print(f"\n The following user have been confirmed:")
+for confirmed_user in confirmed_users:
+    print(confirmed_user.title())
