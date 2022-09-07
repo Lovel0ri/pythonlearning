@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week3 PBItoP/chapter 7/7.3.2删除为特定值的所有列表元素.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3 PBItoP/chapter 7/7.3.3使用用户输入来填充字典.py" afterDir="false" />
+    <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="7.3.3使用用户输入来填充字典">
+      <change afterPath="$PROJECT_DIR$/week3 PBItoP/chapter 7/p113练习.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3 PBItoP/chapter 6 dict/6.4.3在字典中存储字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3 PBItoP/chapter 6 dict/6.4.3在字典中存储字典.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week3 PBItoP/chapter 7/7.3使用while循环处理列表和字典.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3 PBItoP/chapter 7/7.3使用while循环处理列表和字典.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,29 +64,7 @@
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7.3.3使用用户输入来填充字典">
-    <configuration name="6.3.2遍历字典中的所有值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="code" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3 PBItoP/chapter 6 dict" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3 PBItoP/chapter 6 dict/6.3.2遍历字典中的所有值.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.p113练习">
     <configuration name="6.4.3在字典中存储字典" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,13 +153,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="p113练习" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week3 PBItoP/chapter 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3 PBItoP/chapter 7/p113练习.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.p113练习" />
         <item itemvalue="Python.7.3.3使用用户输入来填充字典" />
         <item itemvalue="Python.7.3使用while循环处理列表和字典" />
         <item itemvalue="Python.p110练习" />
         <item itemvalue="Python.6.4.3在字典中存储字典" />
-        <item itemvalue="Python.6.3.2遍历字典中的所有值" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +225,7 @@
       <workItem from="1662466849550" duration="833000" />
       <workItem from="1662467700449" duration="4499000" />
       <workItem from="1662476885462" duration="3299000" />
-      <workItem from="1662557653775" duration="1361000" />
+      <workItem from="1662557653775" duration="4239000" />
     </task>
     <task id="LOCAL-00001" summary="重新提交完整的库">
       <created>1662127101086</created>
@@ -559,7 +556,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662476613797</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="7.3.3使用用户输入来填充字典">
+      <created>1662559048362</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1662559048362</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,7 +582,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="学习添加键值对" />
     <MESSAGE value="修改字典中的值" />
     <MESSAGE value="删除键值对" />
     <MESSAGE value="由类似对象组成的字典" />
@@ -603,7 +606,8 @@
     <MESSAGE value="p110练习" />
     <MESSAGE value="在列表之间移动元素" />
     <MESSAGE value="while循环处理列表" />
-    <option name="LAST_COMMIT_MESSAGE" value="while循环处理列表" />
+    <MESSAGE value="7.3.3使用用户输入来填充字典" />
+    <option name="LAST_COMMIT_MESSAGE" value="7.3.3使用用户输入来填充字典" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonlearning$7_1input.coverage" NAME="7.1input Coverage Results" MODIFIED="1662464717974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PBItoP/chapter 7" />
@@ -617,6 +621,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$p194Athlete.coverage" NAME="p194创建类Athlete Coverage Results" MODIFIED="1662267251941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter6" />
     <SUITE FILE_PATH="coverage/pythonlearning$p136.coverage" NAME="p136 Coverage Results" MODIFIED="1662184327684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter4" />
     <SUITE FILE_PATH="coverage/pythonlearning$p206pythonlist.coverage" NAME="p206继承python的内置list类 Coverage Results" MODIFIED="1662273080914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter6" />
+    <SUITE FILE_PATH="coverage/pythonlearning$p113.coverage" NAME="p113练习 Coverage Results" MODIFIED="1662561476966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter 7" />
     <SUITE FILE_PATH="coverage/pythonlearning$p145.coverage" NAME="p145练习使用列表 Coverage Results" MODIFIED="1662187270353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
     <SUITE FILE_PATH="coverage/pythonlearning$.coverage" NAME="删除键值对 Coverage Results" MODIFIED="1662281060005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
     <SUITE FILE_PATH="coverage/pythonlearning$7_3_3.coverage" NAME="7.3.3使用用户输入来填充字典 Coverage Results" MODIFIED="1662558945566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter 7" />
