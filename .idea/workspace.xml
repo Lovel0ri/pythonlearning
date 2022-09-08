@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week3 PBItoP/chapter8/8.6.1导入整个模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3 PBItoP/chapter8/make_pizza/make_pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3 PBItoP/chapter8/make_pizza/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3 PBItoP/chapter8/making_pizzas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3 PBItoP/chapter8/making_pizzas.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3 PBItoP/chapter8/making_pizzas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/网络与新媒体/github/pythonlearning/week3 PBItoP/chapter8/make_pizza/dist/make_pizzas-1.0.0.tar.gz",
+    "last_opened_file_path": "E:/网络与新媒体/github/pythonlearning/week3 PBItoP/chapter8/make_pizza/dist/make_pizza-1.0.0.tar.gz",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -230,14 +227,7 @@
       <workItem from="1662476885462" duration="3299000" />
       <workItem from="1662557653775" duration="4239000" />
       <workItem from="1662618107649" duration="15521000" />
-      <workItem from="1662645744567" duration="7275000" />
-    </task>
-    <task id="LOCAL-00015" summary="p182用字典处理数据">
-      <created>1662259441757</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1662259441757</updated>
+      <workItem from="1662645744567" duration="8242000" />
     </task>
     <task id="LOCAL-00016" summary="创建类并优化代码">
       <created>1662269568396</created>
@@ -575,7 +565,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662651601981</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="8.6.1导入整个模块">
+      <created>1662653940692</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1662653940692</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +591,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="切片练习，复制列表练习" />
     <MESSAGE value="p57练习" />
     <MESSAGE value="元组" />
     <MESSAGE value="7.1input函数练习" />
@@ -619,7 +615,8 @@
     <MESSAGE value="8.5传递任意数量的实参（利用空元组）" />
     <MESSAGE value="8.5.2使用任意数量的关键字实参" />
     <MESSAGE value="完成p134练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成p134练习" />
+    <MESSAGE value="8.6.1导入整个模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="8.6.1导入整个模块" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonlearning$8_5_2.coverage" NAME="8.5.2使用任意数量的关键字实参 Coverage Results" MODIFIED="1662647730935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
@@ -630,7 +627,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$8_3_4while.coverage" NAME="8.3.4结合使用函数和while循环 Coverage Results" MODIFIED="1662621802072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/pythonlearning$p145.coverage" NAME="p145练习使用列表 Coverage Results" MODIFIED="1662187270353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
     <SUITE FILE_PATH="coverage/pythonlearning$p127.coverage" NAME="p127练习 Coverage Results" MODIFIED="1662622286598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
-    <SUITE FILE_PATH="coverage/pythonlearning$making_pizzas.coverage" NAME="making_pizzas Coverage Results" MODIFIED="1662653817153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
+    <SUITE FILE_PATH="coverage/pythonlearning$making_pizzas.coverage" NAME="making_pizzas Coverage Results" MODIFIED="1662655040783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/pythonlearning$p30.coverage" NAME="p30 Coverage Results" MODIFIED="1662377319775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 3 list" />
     <SUITE FILE_PATH="coverage/pythonlearning$6_2_2.coverage" NAME="6.2.2添加键值对 Coverage Results" MODIFIED="1662278995837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
     <SUITE FILE_PATH="coverage/pythonlearning$p88.coverage" NAME="p88练习 Coverage Results" MODIFIED="1662284352194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />

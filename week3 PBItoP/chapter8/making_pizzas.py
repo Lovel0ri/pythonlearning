@@ -2,6 +2,9 @@
 # @Author: 李树斌
 # @File : making_pizzas.py
 # @Software :PyCharm
-import make_pizza
+# import make_pizza
 
-make_pizza.make_pizza("芝士","新奥尔良鸡肉")
+# make_pizza.make_pizza("芝士","新奥尔良鸡肉")
+
+from make_pizza import make_pizza
+make_pizza("芝士","新奥尔良鸡肉")
