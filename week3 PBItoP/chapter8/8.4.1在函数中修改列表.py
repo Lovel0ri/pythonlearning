@@ -29,7 +29,7 @@ def print_models(unprinted_designs,completed_models):
 
 def show_models(completed_models):
     """显示打印好的所有模型"""
-    print(f"以下的设计都打印好了")
+    print(f"以下的设计都打印好了:")
     for show_model in completed_models:
         print(show_model)
 
