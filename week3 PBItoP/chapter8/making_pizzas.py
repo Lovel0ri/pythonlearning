@@ -6,5 +6,5 @@
 
 # make_pizza.make_pizza("芝士","新奥尔良鸡肉")
 
-from make_pizza import make_pizza
-make_pizza("芝士","新奥尔良鸡肉")
+from make_pizza import make_pizza as mp
+mp("芝士","新奥尔良鸡肉")
