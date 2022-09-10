@@ -28,6 +28,7 @@ class Car:
         else:
             print("不可以把里程表往回调！")
     def increment_odometer(self,km):
+        #将里程表增加指定的量
         self.odometer_reading += km
 
 
