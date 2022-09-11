@@ -26,10 +26,10 @@ class User:
 
 
 
-user_1 = User("Bingbing","Chen")
-user_1.greet_user()
-user_1.increment_login_attempts()
-user_1.login_attempt()
-user_1.increment_login_attempts()
-
-user_1.login_attempt()
+# user_1 = User("Bingbing","Chen")
+# user_1.greet_user()
+# user_1.increment_login_attempts()
+# user_1.login_attempt()
+# user_1.increment_login_attempts()
+#
+# user_1.login_attempt()
