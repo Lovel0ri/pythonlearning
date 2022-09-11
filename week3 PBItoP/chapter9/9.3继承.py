@@ -10,6 +10,7 @@ class Car:
         self.model = model
         self.year = year
         self.odometer_reading = 0
+        self.fill_gas = 0
 
 
     def get_descriptive_name(self):
@@ -32,6 +33,8 @@ class Car:
         #将里程表增加指定的量
         self.odometer_reading += km
 
+    def fill_gas_tank(self):
+        print(f"您的汽车还有{self.fill_gas} L油")
 
 class ElectricCar(Car):
     """电动汽车的独到之处"""
@@ -43,6 +46,11 @@ class ElectricCar(Car):
     def describe_battery_size(self):
         print(f"这辆车还剩下{self.battery_size}--kWh 的电量")
 
+    def fill_gas_tank(self):
+        print("您好，电动汽车没有油箱")
+
 my_tesla = ElectricCar("tesla","model s",2019)
 print(my_tesla.get_descriptive_name())
 my_tesla.describe_battery_size()
+
+my_tesla.fill_gas_tank()
