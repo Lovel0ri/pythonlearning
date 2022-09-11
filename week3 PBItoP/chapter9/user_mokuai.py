@@ -1,7 +1,9 @@
 # @Time: 2022/9/11 15:03
 # @Author: 李树斌
-# @File : user.py
+# @File : user_mokuai.py
 # @Software :PyCharm
+from  panda import Admin
+from panda import Priveleges
 class User:
     def __init__(self,first_name,last_name):
         self.first_name = first_name
