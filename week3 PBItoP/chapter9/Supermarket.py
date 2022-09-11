@@ -1,6 +1,6 @@
 # @Time: 2022/9/11 13:29
 # @Author: 李树斌
-# @File : p155 9-6.py
+# @File : Supermarket.py
 # @Software :PyCharm
 
 
@@ -41,10 +41,10 @@ class IceCreamStand(Supermarket):
         print(f"我们有以下口味的雪糕{self.flavors}")
 
 
-ice = IceCreamStand("哈根达斯","营业中",20)
-print(ice.describe_supermarket())
-
-ice.get_flavors()
+# ice = IceCreamStand("哈根达斯","营业中",20)
+# print(ice.describe_supermarket())
+#
+# ice.get_flavors()
 
 
 

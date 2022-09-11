@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week3 PBItoP/chapter9/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week3 PBItoP/chapter9/my_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3 PBItoP/chapter9/P161 9-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3 PBItoP/chapter9/electri_car.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week3 PBItoP/chapter9/my_electric_car.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3 PBItoP/chapter9/car.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3 PBItoP/chapter9/car.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week3 PBItoP/chapter9/p155 9-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/week3 PBItoP/chapter9/Supermarket.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +68,8 @@
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.my_car">
-    <configuration name="9.3继承" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.P161 9-10">
+    <configuration name="P161 9-10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +82,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3 PBItoP/chapter9/9.3继承.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3 PBItoP/chapter9/P161 9-10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="p155 9-6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="my_electric_car" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="code" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +126,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3 PBItoP/chapter9/p155 9-6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week3 PBItoP/chapter9/my_electric_car.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.P161 9-10" />
+        <item itemvalue="Python.my_electric_car" />
         <item itemvalue="Python.my_car" />
         <item itemvalue="Python.p155 9-9" />
         <item itemvalue="Python.p155 9-7" />
-        <item itemvalue="Python.p155 9-6" />
-        <item itemvalue="Python.9.3继承" />
       </list>
     </recent_temporary>
   </component>
@@ -230,14 +233,7 @@
       <workItem from="1662618107649" duration="15521000" />
       <workItem from="1662645744567" duration="8897000" />
       <workItem from="1662792239829" duration="24944000" />
-      <workItem from="1662866793275" duration="10984000" />
-    </task>
-    <task id="LOCAL-00028" summary="week2作业2.0版">
-      <created>1662306993357</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1662306993357</updated>
+      <workItem from="1662866793275" duration="11821000" />
     </task>
     <task id="LOCAL-00029" summary="week2作业2.0版">
       <created>1662371805386</created>
@@ -575,7 +571,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662878181787</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="导入单个类">
+      <created>1662878759286</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1662878759286</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -594,7 +597,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="p117练习" />
     <MESSAGE value="8.2位置实参和关键字实参" />
     <MESSAGE value="8.2.3默认值缺省值" />
     <MESSAGE value="p122练习" />
@@ -619,7 +621,8 @@
     <MESSAGE value="9.3.3重写父类方法" />
     <MESSAGE value="将实例用做属性" />
     <MESSAGE value="p155 9-9练习" />
-    <option name="LAST_COMMIT_MESSAGE" value="p155 9-9练习" />
+    <MESSAGE value="导入单个类" />
+    <option name="LAST_COMMIT_MESSAGE" value="导入单个类" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonlearning$8_5_2.coverage" NAME="8.5.2使用任意数量的关键字实参 Coverage Results" MODIFIED="1662647730935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
@@ -632,9 +635,11 @@
     <SUITE FILE_PATH="coverage/pythonlearning$p127.coverage" NAME="p127练习 Coverage Results" MODIFIED="1662622286598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/pythonlearning$making_pizzas.coverage" NAME="making_pizzas Coverage Results" MODIFIED="1662655040783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/pythonlearning$p30.coverage" NAME="p30 Coverage Results" MODIFIED="1662377319775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 3 list" />
+    <SUITE FILE_PATH="coverage/pythonlearning$my_electric_car.coverage" NAME="my_electric_car Coverage Results" MODIFIED="1662879406493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
     <SUITE FILE_PATH="coverage/pythonlearning$6_2_2.coverage" NAME="6.2.2添加键值对 Coverage Results" MODIFIED="1662278995837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
     <SUITE FILE_PATH="coverage/pythonlearning$p88.coverage" NAME="p88练习 Coverage Results" MODIFIED="1662284352194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_5_1.coverage" NAME="8.5.1结合使用位置参数和任意数量参数 Coverage Results" MODIFIED="1662631725958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
+    <SUITE FILE_PATH="coverage/pythonlearning$P161_9_10.coverage" NAME="P161 9-10 Coverage Results" MODIFIED="1662879590101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_2.coverage" NAME="8.2传递实参 Coverage Results" MODIFIED="1662567830933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/pythonlearning$4_4.coverage" NAME="4.4切片 Coverage Results" MODIFIED="1662460512326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PBItoP/chapter4" />
     <SUITE FILE_PATH="coverage/pythonlearning$7_2_5continue.coverage" NAME="7.2.5循环中使用continue Coverage Results" MODIFIED="1662466808158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PBItoP/chapter 7" />
