@@ -12,7 +12,7 @@ class Car:
 
 
     def get_descriptive_name(self):
-        """反正整洁的描述性语言"""
+        """整洁的描述性语言"""
         long_name = f"{self.year} {self.make} {self.model}"
         return  long_name.title()
 
