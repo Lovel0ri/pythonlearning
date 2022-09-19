@@ -1,2 +1,3 @@
 Life is short ,I love Python.
-LIFE IS SHORT,I LOVE PYTHON.
+LIFE IS SHORT,I LOVE Python.
+Time is everything.

@@ -4,13 +4,20 @@
 # @Software :PyCharm
 #10-1
 
-with open('10-1.txt') as data:
-    # for i in data.readlines():
-    #     print(i.strip())
-    # for i in data.read():
-    #     print(i.strip())
-    for i in data.readlines():
-        i = i.strip()
-        my_i = [i]
+# with open('10-1.txt') as data:
+#     for i in data.readlines():
+#         print(i.strip())
+#
+#     for j in data.read():
+#         print(j.strip())
+#
+#     for k in data.readlines():
+#         i = k.strip()
+#         list = []
+#         list.append(i)
+#         print(list)
 
-print(my_i)
+#10-2
+with open('10-1.txt') as data:
+    for i in data.readlines():
+        print(i.replace('Python','Ruby'))
