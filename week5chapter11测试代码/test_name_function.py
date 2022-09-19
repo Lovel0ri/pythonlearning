@@ -4,6 +4,7 @@
 # @Software :PyCharm
 import unittest
 from name_function import get_formatted_name
+#不要修改测试，应该修改测试不通过的代码
 class NamesTestCase(unittest.TestCase):
 
      def test_first_last_name(self):
