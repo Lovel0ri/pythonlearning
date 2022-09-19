@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week5chapter11测试代码/test_name_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5chapter11测试代码/name_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5chapter11测试代码/name_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5chapter11测试代码/test_name_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5chapter11测试代码/test_name_function.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -239,14 +239,7 @@
       <workItem from="1663521180736" duration="2000" />
       <workItem from="1663579411694" duration="226000" />
       <workItem from="1663595624030" duration="3645000" />
-      <workItem from="1663601133465" duration="8533000" />
-    </task>
-    <task id="LOCAL-00042" summary="7.2.3while循环假如flag">
-      <created>1662466712263</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1662466712263</updated>
+      <workItem from="1663601133465" duration="9207000" />
     </task>
     <task id="LOCAL-00043" summary="7.2.3while循环加入continue">
       <created>1662466869139</created>
@@ -584,7 +577,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663608893294</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="unittest测试函数">
+      <created>1663610045108</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1663610045108</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -603,7 +603,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="8.6.2导入特定模块" />
     <MESSAGE value="p144练习创建类" />
     <MESSAGE value="9.2.1Car类" />
     <MESSAGE value="9.2.1Car类给属性指定默认值" />
@@ -628,7 +627,8 @@
     <MESSAGE value="存储和读取用户信息" />
     <MESSAGE value="素数判断" />
     <MESSAGE value="测试函数get_formatted_name" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试函数get_formatted_name" />
+    <MESSAGE value="unittest测试函数" />
+    <option name="LAST_COMMIT_MESSAGE" value="unittest测试函数" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonlearning$9_12.coverage" NAME="9-12 Coverage Results" MODIFIED="1662882846774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
@@ -684,7 +684,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$8_4.coverage" NAME="8.4传递列表 Coverage Results" MODIFIED="1662624968722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/pythonlearning$7_3_3.coverage" NAME="7.3.3使用用户输入来填充字典 Coverage Results" MODIFIED="1662558945566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter 7" />
     <SUITE FILE_PATH="coverage/pythonlearning$9_1_1.coverage" NAME="9.1.1 Coverage Results" MODIFIED="1662799075742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
-    <SUITE FILE_PATH="coverage/pythonlearning$.coverage" NAME=" Coverage Results" MODIFIED="1663609943723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5chapter11测试代码" />
+    <SUITE FILE_PATH="coverage/pythonlearning$.coverage" NAME=" Coverage Results" MODIFIED="1663610632750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5chapter11测试代码" />
     <SUITE FILE_PATH="coverage/pythonlearning$6_2_7get.coverage" NAME="6.2.7使用get（）访问值 Coverage Results" MODIFIED="1662310510661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
     <SUITE FILE_PATH="coverage/pythonlearning$10_2_1.coverage" NAME="10.2.1 Coverage Results" MODIFIED="1663597243500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5chapter10" />
     <SUITE FILE_PATH="coverage/pythonlearning$pri_and_admin.coverage" NAME="pri and admin Coverage Results" MODIFIED="1662881111376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />

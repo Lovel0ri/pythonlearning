@@ -10,6 +10,11 @@ class NamesTestCase(unittest.TestCase):
      def test_first_last_name(self):
          formatted_name = get_formatted_name('Bingbing','Chen')
          self.assertEqual(formatted_name,'Bingbing Chen')
+     def test_first_middle_last_name(self):
+         formatted_name = get_formatted_name('Bingbing','Chen','B')
+         self.assertEqual(formatted_name,'Bingbing B Chen')
+
+
 
 if __name__ == '__main__':
     unittest.main
