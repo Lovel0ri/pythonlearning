@@ -13,13 +13,13 @@ class AlienInvasion:
     def __init__(self):
         """初始化游戏并创建游戏资源"""
         pygame.init()
-        self.settings = Settings()
+        self.settings = Settings()#创建Settings实例
 
         self.screen = pygame.display.set_mode(
             self.settings.screen_width,self.settings.screen_height)
         )
 
-        self.screen = pygame.display.set_mode((1920,1080))#指定窗口尺寸
+        # self.screen = pygame.display.set_mode((1920,1080))#指定窗口尺寸
         pygame.display.set_caption('Alien Invasion')
 
         #设置背景色
