@@ -12,6 +12,7 @@ class Ship:
         self.screen = ai_game.screen
         self.screen_rect = ai_game.screen.get_rect()
         self.settings = ai_game.settings
+
         #加载飞船图像并获取其外接矩形
         self.image = pygame.image.load('images/ship.png')#该函数返回表示飞船的surface，并赋给self.image
         self.rect = self.image.get_rect()#获取相应surface的属性rect
