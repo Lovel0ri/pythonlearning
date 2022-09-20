@@ -14,9 +14,11 @@ class AlienInvasion:
         """初始化游戏并创建游戏资源"""
         pygame.init()
         self.settings = Settings()#创建Settings实例
-
-        self.screen = pygame.display.set_mode(
-            (self.settings.screen_width,self.settings.screen_height))
+        self.screen = pygame.display.set_mode((0,0), pygame.FULLSCREEN)
+        self.settings.screen_height = self.screen.get_rect().height
+        self.settings.screen_width = self.screen.get_rect().width
+        # self.screen = pygame.display.set_mode(
+        #     (self.settings.screen_width,self.settings.screen_height))
 
         # self.screen = pygame.display.set_mode((1920,1080))#指定窗口尺寸
         pygame.display.set_caption('Alien Invasion')
@@ -41,7 +43,7 @@ class AlienInvasion:
             elif event.type == pygame.KEYDOWN:
                 self._check_keydown_events(event)
             elif event.type == pygame.KEYUP:
-                self._check_keyup_events()
+                self._check_keyup_events(event)
 
 
     def _check_keydown_events(self,event):
@@ -51,6 +53,8 @@ class AlienInvasion:
             self.ship.moving_right = True
         elif event.key == pygame.K_LEFT:
             self.ship.moving_left = True
+        elif event.key == pygame.K_q:
+            sys.exit()
 
 
     def _check_keyup_events(self,event):
