@@ -4,7 +4,7 @@
 # @Software :PyCharm
 from settings import Settings
 import sys
-
+from ship import Ship
 import pygame
 
 class AlienInvasion:
@@ -16,11 +16,12 @@ class AlienInvasion:
         self.settings = Settings()#创建Settings实例
 
         self.screen = pygame.display.set_mode(
-            self.settings.screen_width,self.settings.screen_height)
-        )
+            (self.settings.screen_width,self.settings.screen_height))
 
         # self.screen = pygame.display.set_mode((1920,1080))#指定窗口尺寸
         pygame.display.set_caption('Alien Invasion')
+
+        self.ship = Ship(self)
 
         #设置背景色
         self.bg_color = (230,230,230)
@@ -29,16 +30,38 @@ class AlienInvasion:
     def run_game(self):
         """开始游戏的主循环"""
         while True:
-            #监视键盘和鼠标事件
-            for event in pygame.event.get():
-                if event.type == pygame.QUIT:
-                    sys.exit()
+            self._check_events()
+            self.ship.update()
+            self._update_screens()
+    def _check_events(self):
+        """响应按键和鼠标事件"""
+        for event in pygame.event.get():
+            if event.type == pygame.QUIT:
+                sys.exit()
+            elif event.type == pygame.KEYDOWN:
+                if event.key == pygame.K_RIGHT:
+                    #向右移动飞船
+                    self.ship.moving_right = True
+                elif event.key == pygame.K_LEFT:
+                    self.ship.moving_left = True
 
-            #每次循环时都会重绘屏幕
-            self.screen.fill(self.bg_color)
 
-            #让最近绘制的屏幕可见
-            pygame.display.flip()
+            elif event.type == pygame.KEYUP:
+                if event.key == pygame.K_RIGHT:
+                    self.ship.moving_right = False
+                elif event.key == pygame.K_LEFT:
+                    self.ship.moving_left = False
+
+
+
+
+
+    def _update_screens(self):
+        """更换屏幕上的图像，并切换到新屏幕"""
+        self.screen.fill(self.settings.bg_color)
+        self.ship.blitme()
+
+        pygame.display.flip()
 
 if __name__ == '__main__':
     #创建游戏实例并运行游戏

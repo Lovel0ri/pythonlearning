@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/test0.py" beforeDir="false" afterPath="$PROJECT_DIR$/week1/test0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week5alien_invasion/alien_invasion.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5alien_invasion/alien_invasion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5alien_invasion/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5alien_invasion/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5alien_invasion/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5alien_invasion/ship.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +70,29 @@
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.alien_invasion">
+    <configuration name="alien_invasion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5alien_invasion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week5alien_invasion/alien_invasion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="employeep200" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,21 +130,6 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_survey.TestAnonymousSurvey" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="pythonlearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week5chapter11测试代码" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_survey.TestAnonymousSurvey&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Python tests in E:/网络与新媒体/github/pythonlearning/week5chapter11测试代码/github0.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.alien_invasion" />
         <item itemvalue="Python tests.Python tests in E:/网络与新媒体/github/pythonlearning/week5chapter11测试代码/github0.py" />
         <item itemvalue="Python tests.Python tests for p200test_Empolyee.Test_Employee" />
         <item itemvalue="Python tests.Python tests in p200test_Empolyee.py" />
         <item itemvalue="Python.employeep200" />
-        <item itemvalue="Python tests.Python tests for test_survey.TestAnonymousSurvey" />
       </list>
     </recent_temporary>
   </component>
@@ -224,14 +234,7 @@
       <workItem from="1663652291075" duration="429000" />
       <workItem from="1663652730330" duration="50000" />
       <workItem from="1663652791033" duration="1592000" />
-      <workItem from="1663667335713" duration="3438000" />
-    </task>
-    <task id="LOCAL-00050" summary="提交week2作业2.0">
-      <created>1662562347916</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1662562347916</updated>
+      <workItem from="1663667335713" duration="9925000" />
     </task>
     <task id="LOCAL-00051" summary="p117练习">
       <created>1662564801675</created>
@@ -569,7 +572,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663669767168</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="增加飞船图片，创建飞船类">
+      <created>1663672106067</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1663672106067</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -588,7 +598,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="9.3.2给子类定义属性和方法" />
     <MESSAGE value="9.3.3重写父类方法" />
     <MESSAGE value="将实例用做属性" />
     <MESSAGE value="p155 9-9练习" />
@@ -613,9 +622,11 @@
     <MESSAGE value="测试AnonymousSurvey类" />
     <MESSAGE value="p200 11-3测试代码" />
     <MESSAGE value="创建游戏窗口和设置类" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建游戏窗口和设置类" />
+    <MESSAGE value="增加飞船图片，创建飞船类" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加飞船图片，创建飞船类" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonlearning$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1663678588712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5alien_invasion" />
     <SUITE FILE_PATH="coverage/pythonlearning$9_12.coverage" NAME="9-12 Coverage Results" MODIFIED="1662882846774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
     <SUITE FILE_PATH="coverage/pythonlearning$json_dumo_load.coverage" NAME="json.dumo.load Coverage Results" MODIFIED="1663601573280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5chapter10" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_5_2.coverage" NAME="8.5.2使用任意数量的关键字实参 Coverage Results" MODIFIED="1662647730935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
