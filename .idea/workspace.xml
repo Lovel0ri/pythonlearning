@@ -5,11 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week5chapter11测试代码/employeep200.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5chapter11测试代码/github0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week5chapter11测试代码/p200test_Empolyee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/_camera.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/_pygame.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/_surface.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/camera.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/font.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/freetype.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/include/_pygame.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/include/bitmask.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/include/pgcompat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/include/pgimport.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/include/pgplatform.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/include/pygame.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/include/pygame_bufferproxy.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/include/pygame_font.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/include/pygame_freetype.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/include/pygame_mask.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/include/pygame_mixer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/include/sse2neon.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/mask.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/mixer.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/palette.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/pgarrinter.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/pgbufferproxy.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/pgcompat.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/pgopengl.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/pgplatform.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/pygame.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/scrap.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/include/site/python3.8/pygame/surface.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5alien_invasion/alien_invasion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5alien_invasion/describtion.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week5alien_invasion/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week5chapter11测试代码/test_survey.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5chapter11测试代码/test_survey.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week5chapter11测试代码/github0.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,12 +82,12 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/网络与新媒体/github/pythonlearning/week5chapter10",
+    "last_opened_file_path": "E:/网络与新媒体/github/pythonlearning/Lib/site-packages",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -70,7 +99,7 @@
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in github0.py">
+  <component name="RunManager">
     <configuration name="employeep200" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +152,7 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in github0.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in E:/网络与新媒体/github/pythonlearning/week5chapter11测试代码/github0.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,7 +184,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests in github0.py" />
+        <item itemvalue="Python tests.Python tests in E:/网络与新媒体/github/pythonlearning/week5chapter11测试代码/github0.py" />
         <item itemvalue="Python tests.Python tests for p200test_Empolyee.Test_Employee" />
         <item itemvalue="Python tests.Python tests in p200test_Empolyee.py" />
         <item itemvalue="Python.employeep200" />
@@ -226,14 +255,8 @@
       <workItem from="1663649469242" duration="2665000" />
       <workItem from="1663652291075" duration="429000" />
       <workItem from="1663652730330" duration="50000" />
-      <workItem from="1663652791033" duration="874000" />
-    </task>
-    <task id="LOCAL-00048" summary="7.3.3使用用户输入来填充字典">
-      <created>1662559048362</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1662559048362</updated>
+      <workItem from="1663652791033" duration="1592000" />
+      <workItem from="1663667335713" duration="2381000" />
     </task>
     <task id="LOCAL-00049" summary="提交week2作业2.0">
       <created>1662562121782</created>
@@ -571,7 +594,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663647973272</updated>
     </task>
-    <option name="localTasksCounter" value="97" />
+    <task id="LOCAL-00097" summary="p200 11-3测试代码">
+      <created>1663653692642</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1663653692642</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -590,7 +620,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="p149 9-5练习" />
     <MESSAGE value="p149 9-5练习完成" />
     <MESSAGE value="9.3.2给子类定义属性和方法" />
     <MESSAGE value="9.3.3重写父类方法" />
@@ -615,7 +644,8 @@
     <MESSAGE value="练习11-1测试完毕" />
     <MESSAGE value="练习p194/11-2测试完毕" />
     <MESSAGE value="测试AnonymousSurvey类" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试AnonymousSurvey类" />
+    <MESSAGE value="p200 11-3测试代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="p200 11-3测试代码" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonlearning$9_12.coverage" NAME="9-12 Coverage Results" MODIFIED="1662882846774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
