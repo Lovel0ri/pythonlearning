@@ -37,6 +37,17 @@ class AlienInvasion:
             self.ship.update()
             self.bullets.update()
             self._update_screens()
+            self._update_bullets()
+
+
+    def _update_bullets(self):
+        # 删除消失的子弹
+        # 该列表长度需保持不变，所以只能遍历编组的副本
+        for bullet in self.bullets.copy():
+            if bullet.rect.bottom <= 0:
+                self.bullets.remove(bullet)
+        print(len(self.bullets))
+
 
     def _check_events(self):
         """响应按键和鼠标事件"""
@@ -70,8 +81,11 @@ class AlienInvasion:
 
     def _fire_bullet(self):
         """创建一颗子弹,并将其加入到编组中"""
-        new_bullet = Bullet(self)
-        self.bullets.add(new_bullet)
+        if len(self.bullets) < self.settings.bullet_allowed:
+            new_bullet = Bullet(self)
+            self.bullets.add(new_bullet)
+
+
 
 
 
