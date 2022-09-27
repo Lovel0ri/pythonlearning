@@ -17,6 +17,7 @@ class Ship:
         self.image = pygame.image.load('images/ship.png')#该函数返回表示飞船的surface，并赋给self.image
         self.rect = self.image.get_rect()#获取相应surface的属性rect
 
+
         #对于每艘新飞船，都将其放在屏幕底部的中央
         self.rect.midbottom = self.screen_rect.midbottom
 
