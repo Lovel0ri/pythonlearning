@@ -34,3 +34,4 @@ label = labels.get(key,key)
 result = person.get(key,'not available')
 
 print(f"{name}'s {label} is {result}")
+print(people.keys())
