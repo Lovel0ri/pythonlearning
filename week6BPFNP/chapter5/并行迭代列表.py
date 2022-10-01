@@ -11,3 +11,5 @@ for i in range(len(names)):
 print(list(zip(names,ages)))
 for name, age in zip(names,ages):
     print(name,'is',age,'years old')
+
+print(list(zip(range(5),range(100000))))
