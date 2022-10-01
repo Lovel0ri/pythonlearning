@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week6BPFNP/chapter4/4-1字典示例.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week6BPFNP/chapter4/4-2字典方法示例.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4-1字典示例">
+  <component name="RunManager" selected="Python.4-2字典方法示例">
     <configuration name="了解函数和模块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="alien_invasion (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4-2字典方法示例" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -143,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../源代码文件/chapter_13/ending_the_game" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week6BPFNP/chapter4" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../源代码文件/chapter_13/ending_the_game/alien_invasion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week6BPFNP/chapter4/4-2字典方法示例.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4-2字典方法示例" />
         <item itemvalue="Python.4-1字典示例" />
         <item itemvalue="Python.了解函数和模块" />
         <item itemvalue="Python.15.2绘制简单的折线图" />
         <item itemvalue="Python.alien_invasion" />
-        <item itemvalue="Python.alien_invasion (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -267,14 +267,7 @@
       <workItem from="1664338223625" duration="2954000" />
       <workItem from="1664386606900" duration="32000" />
       <workItem from="1664425060268" duration="3000" />
-      <workItem from="1664593078916" duration="1912000" />
-    </task>
-    <task id="LOCAL-00059" summary="8.4.1在函数中修改列表">
-      <created>1662629211746</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1662629211746</updated>
+      <workItem from="1664593078916" duration="4817000" />
     </task>
     <task id="LOCAL-00060" summary="8.4.2禁止函数修改列表">
       <created>1662630063624</created>
@@ -612,7 +605,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664342908686</updated>
     </task>
-    <option name="localTasksCounter" value="108" />
+    <task id="LOCAL-00108" summary="创建电话薄数据库（字典）">
+      <created>1664595814516</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1664595814516</updated>
+    </task>
+    <option name="localTasksCounter" value="109" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -631,7 +631,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="删除多余文件夹" />
     <MESSAGE value="10.1.7圆周率和生日" />
     <MESSAGE value="drop掉书本源代码文件" />
     <MESSAGE value="p171练习" />
@@ -656,7 +655,8 @@
     <MESSAGE value="设置子弹数目限制，删除子弹" />
     <MESSAGE value="复习函数和模块" />
     <MESSAGE value="复习return函数，以及从返回的列表和字典中取值" />
-    <option name="LAST_COMMIT_MESSAGE" value="复习return函数，以及从返回的列表和字典中取值" />
+    <MESSAGE value="创建电话薄数据库（字典）" />
+    <option name="LAST_COMMIT_MESSAGE" value="创建电话薄数据库（字典）" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonlearning$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1663927604085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5alien_invasion" />
@@ -684,6 +684,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$p52.coverage" NAME="p52练习 Coverage Results" MODIFIED="1662459307467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PBItoP/chapter4" />
     <SUITE FILE_PATH="coverage/pythonlearning$p175__1_.coverage" NAME="p175字典处理数据 (1) Coverage Results" MODIFIED="1662276405981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter6" />
     <SUITE FILE_PATH="coverage/pythonlearning$p110.coverage" NAME="p110练习 Coverage Results" MODIFIED="1662558258868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter 7" />
+    <SUITE FILE_PATH="coverage/demo1_py$4_2.coverage" NAME="4-2字典方法示例 Coverage Results" MODIFIED="1664598036076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6BPFNP/chapter4" />
     <SUITE FILE_PATH="coverage/pythonlearning$duizhang.coverage" NAME="duizhang Coverage Results" MODIFIED="1663685529682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5chapter10" />
     <SUITE FILE_PATH="coverage/pythonlearning$p4_3_2.coverage" NAME="p4.3.2 Coverage Results" MODIFIED="1662457329637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PBItoP/chapter4" />
     <SUITE FILE_PATH="coverage/pythonlearning$7_2while.coverage" NAME="7.2while循环 Coverage Results" MODIFIED="1662466684942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PBItoP/chapter 7" />
@@ -726,7 +727,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$p149.coverage" NAME="p149 Coverage Results" MODIFIED="1662824624382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
     <SUITE FILE_PATH="coverage/pythonlearning$p155_9_9.coverage" NAME="p155 9-9 Coverage Results" MODIFIED="1662882604629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
     <SUITE FILE_PATH="coverage/pythonlearning$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1662653053030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8/make_pizza" />
-    <SUITE FILE_PATH="coverage/demo1_py$4_1.coverage" NAME="4-1字典示例 Coverage Results" MODIFIED="1664595454209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6BPFNP/chapter4" />
+    <SUITE FILE_PATH="coverage/demo1_py$4_1.coverage" NAME="4-1字典示例 Coverage Results" MODIFIED="1664595613577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6BPFNP/chapter4" />
     <SUITE FILE_PATH="coverage/pythonlearning$10_1_7.coverage" NAME="10.1.7 Coverage Results" MODIFIED="1663519795725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5chapter10" />
     <SUITE FILE_PATH="coverage/pythonlearning$9_3.coverage" NAME="9.3继承 Coverage Results" MODIFIED="1662874045311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_2_3.coverage" NAME="8.2.3默认值缺省值 Coverage Results" MODIFIED="1662568568835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
