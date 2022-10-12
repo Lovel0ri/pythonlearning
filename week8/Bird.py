@@ -11,8 +11,6 @@ class Bird:
             self.hungry = False
         else:
             print("No,thanks")
-bird1 = Bird()
-print(bird1.eat())
 
 class SongBird(Bird):
     def __init__(self):
@@ -22,5 +20,3 @@ class SongBird(Bird):
     def sing(self):
         print(self.song)
 
-songbird = SongBird()
-print(songbird.eat())
