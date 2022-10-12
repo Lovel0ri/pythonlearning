@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week8/lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week8/在列表推导式中进行映射和过滤.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week8/Bird.py" beforeDir="false" afterPath="$PROJECT_DIR$/week8/Bird.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +68,29 @@
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lambda">
+  <component name="RunManager" selected="Python.在列表推导式中进行映射和过滤 (1)">
+    <configuration name="在列表推导式中进行映射和过滤 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week8/在列表推导式中进行映射和过滤.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="高阶函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9.2.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="在列表推导式中进行映射和过滤" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,29 +126,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week8/9.2.1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="9.2constructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonlearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week8/9.2constructor.py" />
+      <option name="SCRIPT_NAME" value="E:\网络与新媒体\github\pythonlearning\week8\在列表推导式中进行映射和过滤.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,11 +225,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.在列表推导式中进行映射和过滤 (1)" />
+        <item itemvalue="Python.在列表推导式中进行映射和过滤" />
         <item itemvalue="Python.lambda" />
         <item itemvalue="Python.高阶函数" />
         <item itemvalue="Python.Bird" />
-        <item itemvalue="Python.9.2.1" />
-        <item itemvalue="Python.9.2constructor" />
       </list>
     </recent_temporary>
   </component>
@@ -326,14 +325,7 @@
       <workItem from="1665318455164" duration="33000" />
       <workItem from="1665481360438" duration="19042000" />
       <workItem from="1665560730383" duration="3609000" />
-      <workItem from="1665580306778" duration="3353000" />
-    </task>
-    <task id="LOCAL-00069" summary="9.2.1Car类给属性指定默认值+通过方法对属性的值进行递增">
-      <created>1662812143006</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1662812143006</updated>
+      <workItem from="1665580306778" duration="5786000" />
     </task>
     <task id="LOCAL-00070" summary="p149 9-4练习">
       <created>1662824650651</created>
@@ -671,7 +663,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665584824576</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="lambda匿名函数">
+      <created>1665585672404</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1665585672404</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -690,7 +689,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="unittest测试函数,设置middle name 为可选参数,增加middlename的测试方法" />
     <MESSAGE value="练习11-1测试完毕" />
     <MESSAGE value="练习p194/11-2测试完毕" />
     <MESSAGE value="测试AnonymousSurvey类" />
@@ -715,7 +713,8 @@
     <MESSAGE value="选择排序算法取array最小值" />
     <MESSAGE value="购物车项目小练习" />
     <MESSAGE value="创建类再次学习与高阶函数" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建类再次学习与高阶函数" />
+    <MESSAGE value="lambda匿名函数" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda匿名函数" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonlearning$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1663927604085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5alien_invasion" />
@@ -768,7 +767,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$p155_9_6.coverage" NAME="p155 9-6 Coverage Results" MODIFIED="1662875704332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
     <SUITE FILE_PATH="coverage/demo1_py$6_4_2.coverage" NAME="6.4.2修改参数 Coverage Results" MODIFIED="1664704391768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6BPFNP/chapter6" />
     <SUITE FILE_PATH="coverage/pythonlearning$alien_invasion__1_.coverage" NAME="alien_invasion (1) Coverage Results" MODIFIED="1663927563638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../源代码文件/chapter_13/ending_the_game" />
-    <SUITE FILE_PATH="coverage/demo1_py$.coverage" NAME="高阶函数 Coverage Results" MODIFIED="1665584511882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week8" />
+    <SUITE FILE_PATH="coverage/demo1_py$.coverage" NAME="在列表推导式中进行映射 Coverage Results" MODIFIED="1665587104465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week8" />
     <SUITE FILE_PATH="coverage/pythonlearning$p156.coverage" NAME="p156列表推导例子练习 Coverage Results" MODIFIED="1662284148618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_1.coverage" NAME="8.1定义函数 Coverage Results" MODIFIED="1662563746060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/pythonlearning$10_4_2.coverage" NAME="10.4.2保存和读取用户生成的数据 Coverage Results" MODIFIED="1663602415692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5chapter10" />
@@ -838,6 +837,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$8_4_2.coverage" NAME="8.4.2禁止函数修改列表 Coverage Results" MODIFIED="1662629327955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/demo1_py$exec.coverage" NAME="使用exec执行字符串 Coverage Results" MODIFIED="1664607109921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6BPFNP/chapter5" />
     <SUITE FILE_PATH="coverage/pythonlearning$9_2_1Car.coverage" NAME="9.2.1Car类 Coverage Results" MODIFIED="1662823951181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
+    <SUITE FILE_PATH="coverage/demo1_py$__1_.coverage" NAME="在列表推导式中进行映射和过滤 (1) Coverage Results" MODIFIED="1665588336774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week8" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_5.coverage" NAME="8.5传递任意数量的实参 Coverage Results" MODIFIED="1662631180730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
   </component>
 </project>
