@@ -3,14 +3,23 @@
 # @File : 9.2.1.py
 # @Software :PyCharm
 class A:
-    def hello(self):
-        return ("Hello,Im A")
+    # def __init__(self,greet):
+    #     self.greet = greet
+    def hello(self,greet):
+        # return ("Hello,Im A")
+        return greet
 
 class B(A):
-    def hello(self):
-        return ("Hello,Im B")
+    pass
+    # def hello(self):
+    #     return ("Hello,Im B")
 
 a = A()
-b = B()
-print(a.hello())
-print(b.hello())
+print(a.hello("你好"))#通常都是这样去调用类的方法
+
+print(A.hello(a,'你好'))#这样去理解就能明白self的作用了
+
+
+# b = B()
+# print(a.hello())
+# print(b.hello())
