@@ -5,8 +5,134 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week8/flatten.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/find_similar_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/ipython.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/ipython3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jsonschema.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-bundlerextension.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-console.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-dejavu.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-execute.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-kernel.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-kernelspec.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-migrate.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-nbclassic-bundlerextension.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-nbclassic-extension.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-nbclassic-serverextension.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-nbclassic.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-nbconvert.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-nbextension.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-notebook.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-qtconsole.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-run.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-server.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-serverextension.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-troubleshoot.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter-trust.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/jupyter.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/normalizer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/pygmentize.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/pywin32_postinstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/pywin32_testall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/qtpy.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/send2trash.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/wsdump.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/jupyter/jupyter_server_config.d/nbclassic.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/etc/jupyter/nbconfig/notebook.d/widgetsnbextension.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/imagehash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/applications/jupyter-nbclassic.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/applications/jupyter-notebook.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/icons/hicolor/scalable/apps/nbclassic.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/icons/hicolor/scalable/apps/notebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/kernels/python3/kernel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/kernels/python3/logo-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/kernels/python3/logo-64x64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/kernels/python3/logo-svg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/install.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/schemas/@jupyter-widgets/jupyterlab-manager/package.json.orig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/schemas/@jupyter-widgets/jupyterlab-manager/plugin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/113.dd66397047ecb9a605cf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/113.dd66397047ecb9a605cf.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/134.bcbea9feb6e7c4da7530.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/150.3e1e5adfd821b9b96340.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/291.f707f721e4b3a5489ee0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/291.f707f721e4b3a5489ee0.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/345.82d0af3c0c6ff87d95f4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/495.211015baa14adae19b31.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/595.e3c9c115ecf5763f080b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/596.161a3b5dd4f4d52c1593.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/61.21f571face17e35076c2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/644.11f638668109f1562dd1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/699.d004d23061da64f55a9a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/965.8b60ee098074f7ed452d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/remoteEntry.1116b848a6f7126bf3e9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/@jupyter-widgets/jupyterlab-manager/static/third-party-licenses.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/jupyterlab_pygments/install.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/jupyterlab_pygments/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/jupyterlab_pygments/static/568.1e2faa2ba0bbe59c4780.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/jupyterlab_pygments/static/747.8eb3ddccc7ec4987bff9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/jupyterlab_pygments/static/remoteEntry.aa1060b2d1221f8e5688.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/jupyterlab_pygments/static/style.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/labextensions/jupyterlab_pygments/static/third-party-licenses.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/asciidoc/conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/asciidoc/index.asciidoc.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/base/celltags.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/base/display_priority.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/base/jupyter_widgets.html.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/base/mathjax.html.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/base/null.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/basic/conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/basic/index.html.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/classic/base.html.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/classic/conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/classic/index.html.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/classic/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/compatibility/display_priority.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/compatibility/full.tpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/lab/base.html.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/lab/conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/lab/index.html.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/lab/static/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/lab/static/theme-dark.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/lab/static/theme-light.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/latex/base.tex.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/latex/conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/latex/display_priority.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/latex/document_contents.tex.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/latex/index.tex.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/latex/null.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/latex/report.tex.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/latex/style_bw_ipython.tex.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/latex/style_bw_python.tex.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/latex/style_ipython.tex.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/latex/style_jupyter.tex.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/latex/style_python.tex.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/markdown/conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/markdown/index.md.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/python/conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/python/index.py.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/reveal/base.html.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/reveal/cellslidedata.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/reveal/conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/reveal/index.html.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/reveal/static/custom_reveal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/rst/conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/rst/index.rst.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/script/conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/script/script.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/webpdf/conf.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbconvert/templates/webpdf/index.pdf.j2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbextensions/jupyter-js-widgets/extension.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbextensions/jupyter-js-widgets/extension.js.LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/jupyter/nbextensions/jupyter-js-widgets/extension.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/man/man1/ipython.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/1.7.1Iris.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/京东点击.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week9/京东点击扫码登陆.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week8/flatten.py" beforeDir="false" afterPath="$PROJECT_DIR$/week8/flatten.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,19 +172,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;ToolWindowPylint.ShowToolbar&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/网络与新媒体/github/pythonlearning&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ToolWindowPylint.ShowToolbar": "false",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/网络与新媒体/github/pythonlearning/Lib/site-packages",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\网络与新媒体\github\pythonlearning\week5chapter10" />
@@ -69,7 +195,51 @@
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.flatten">
+  <component name="RunManager" selected="Python.京东点击扫码登陆">
+    <configuration name="京东点击" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week9/京东点击.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="京东点击扫码登陆" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week9" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week9/京东点击扫码登陆.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Fibs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,28 +284,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="__setattr__0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonlearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week8/__setattr__0.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="flatten" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,35 +306,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="setattr_getattr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonlearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week8/__getattr__" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\网络与新媒体\github\pythonlearning\week8\setattr_getattr.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.京东点击扫码登陆" />
+        <item itemvalue="Python.京东点击" />
         <item itemvalue="Python.flatten" />
         <item itemvalue="Python.TestIterator" />
         <item itemvalue="Python.Fibs" />
-        <item itemvalue="Python.__setattr__0" />
-        <item itemvalue="Python.setattr_getattr" />
       </list>
     </recent_temporary>
   </component>
@@ -286,14 +412,11 @@
       <workItem from="1665653639842" duration="3000" />
       <workItem from="1665804936474" duration="12176000" />
       <workItem from="1665843247430" duration="11000" />
-      <workItem from="1665909943478" duration="3455000" />
-    </task>
-    <task id="LOCAL-00073" summary="9.3.2给子类定义属性和方法">
-      <created>1662870898142</created>
-      <option name="number" value="00073" />
-      <option name="presentableId" value="LOCAL-00073" />
-      <option name="project" value="LOCAL" />
-      <updated>1662870898142</updated>
+      <workItem from="1665909943478" duration="4311000" />
+      <workItem from="1665928376317" duration="2000" />
+      <workItem from="1666433589206" duration="1348000" />
+      <workItem from="1666447198940" duration="2008000" />
+      <workItem from="1666494302540" duration="4766000" />
     </task>
     <task id="LOCAL-00074" summary="9.3.3重写父类方法">
       <created>1662872368550</created>
@@ -631,7 +754,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665820827570</updated>
     </task>
-    <option name="localTasksCounter" value="122" />
+    <task id="LOCAL-00122" summary="递归式生成器">
+      <created>1665913522691</created>
+      <option name="number" value="00122" />
+      <option name="presentableId" value="LOCAL-00122" />
+      <option name="project" value="LOCAL" />
+      <updated>1665913522691</updated>
+    </task>
+    <option name="localTasksCounter" value="123" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -650,7 +780,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="p200 11-3测试代码" />
     <MESSAGE value="创建游戏窗口和设置类" />
     <MESSAGE value="增加飞船图片，创建飞船类" />
     <MESSAGE value="增加左右移动" />
@@ -675,7 +804,8 @@
     <MESSAGE value="在列表推导式中进行映射和过滤" />
     <MESSAGE value="类方法和类静态方法" />
     <MESSAGE value="迭代器" />
-    <option name="LAST_COMMIT_MESSAGE" value="迭代器" />
+    <MESSAGE value="递归式生成器" />
+    <option name="LAST_COMMIT_MESSAGE" value="递归式生成器" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonlearning$alien_invasion.coverage" NAME="alien_invasion Coverage Results" MODIFIED="1663927604085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5alien_invasion" />
@@ -734,7 +864,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$p155_9_6.coverage" NAME="p155 9-6 Coverage Results" MODIFIED="1662875704332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
     <SUITE FILE_PATH="coverage/demo1_py$6_4_2.coverage" NAME="6.4.2修改参数 Coverage Results" MODIFIED="1664704391768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6BPFNP/chapter6" />
     <SUITE FILE_PATH="coverage/pythonlearning$alien_invasion__1_.coverage" NAME="alien_invasion (1) Coverage Results" MODIFIED="1663927563638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../源代码文件/chapter_13/ending_the_game" />
-    <SUITE FILE_PATH="coverage/demo1_py$.coverage" NAME="类静态方法 Coverage Results" MODIFIED="1665811533164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week8" />
+    <SUITE FILE_PATH="coverage/demo1_py$.coverage" NAME="京东点击扫码登陆 Coverage Results" MODIFIED="1666499019394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week9" />
     <SUITE FILE_PATH="coverage/pythonlearning$p156.coverage" NAME="p156列表推导例子练习 Coverage Results" MODIFIED="1662284148618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_1.coverage" NAME="8.1定义函数 Coverage Results" MODIFIED="1662563746060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/pythonlearning$10_4_2.coverage" NAME="10.4.2保存和读取用户生成的数据 Coverage Results" MODIFIED="1663602415692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5chapter10" />
@@ -752,7 +882,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$11_2_2language_survey.coverage" NAME="11.2.2language_survey Coverage Results" MODIFIED="1663646987355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5chapter11测试代码" />
     <SUITE FILE_PATH="coverage/pythonlearning$6_2_6.coverage" NAME="6.2.6有类似对象组成的字典 Coverage Results" MODIFIED="1662292961557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
     <SUITE FILE_PATH="coverage/pythonlearning$file_reader.coverage" NAME="file_reader Coverage Results" MODIFIED="1663518294390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5chapter10" />
-    <SUITE FILE_PATH="coverage/demo1_py$flatten.coverage" NAME="flatten Coverage Results" MODIFIED="1665913482263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week8" />
+    <SUITE FILE_PATH="coverage/demo1_py$flatten.coverage" NAME="flatten Coverage Results" MODIFIED="1666448344863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week8" />
     <SUITE FILE_PATH="coverage/pythonlearning$9_12.coverage" NAME="9-12 Coverage Results" MODIFIED="1662882846774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_5_2.coverage" NAME="8.5.2使用任意数量的关键字实参 Coverage Results" MODIFIED="1662647730935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/pythonlearning$p194Athlete.coverage" NAME="p194创建类Athlete Coverage Results" MODIFIED="1662267251941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter6" />
