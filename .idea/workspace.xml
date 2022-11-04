@@ -4,27 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="13章">
-      <change afterPath="$PROJECT_DIR$/Scripts/automat-visualize.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/cftp.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/ckeygen.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/conch.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/mailmail.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/pyhtmlizer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/tkconch.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/trial.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/twist.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scripts/twistd.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter14/14-1最简单的服务器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter14/14-2最简单的客户端.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter14/14-3基于socketserver的极简服务器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter14/14-4分叉服务器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter14/14-5线程化服务器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter14/14-6使用select的简单服务器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter14/14-8使用Twisted创建的简单服务器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter14/客户端2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter14/客户端3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/健身房管理系统/main.py" afterDir="false" />
+    <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/week11/chapter15/15-3使用BeautifulSoup的屏幕抓取程序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week11/chapter15/计算幂.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +77,29 @@
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14-2最简单的客户端">
+  <component name="RunManager" selected="Python.计算幂">
+    <configuration name="计算幂" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week11/chapter15" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week11/chapter15/计算幂.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="14-2最简单的客户端" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14-8使用Twisted创建的简单服务器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="15-3使用BeautifulSoup的屏幕抓取程序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,12 +130,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week11/chapter14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week11/chapter15" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week11/chapter14/14-8使用Twisted创建的简单服务器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week11/chapter15/15-3使用BeautifulSoup的屏幕抓取程序.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,35 +188,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonlearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week11/健身房管理系统" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week11/健身房管理系统/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.计算幂" />
+        <item itemvalue="Python.15-3使用BeautifulSoup的屏幕抓取程序" />
         <item itemvalue="Python.14-2最简单的客户端" />
         <item itemvalue="Python.客户端2" />
         <item itemvalue="Python.客户端3" />
-        <item itemvalue="Python.14-8使用Twisted创建的简单服务器" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -335,14 +317,10 @@
       <workItem from="1667491874738" duration="941000" />
       <workItem from="1667492846849" duration="6000" />
       <workItem from="1667538187855" duration="4021000" />
-      <workItem from="1667550046709" duration="2040000" />
-    </task>
-    <task id="LOCAL-00080" summary="p161 9-12">
-      <created>1662881362176</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1662881362176</updated>
+      <workItem from="1667550046709" duration="3493000" />
+      <workItem from="1667561446363" duration="2097000" />
+      <workItem from="1667564223650" duration="346000" />
+      <workItem from="1667565340685" duration="1830000" />
     </task>
     <task id="LOCAL-00081" summary="p161 9-12">
       <created>1662882855926</created>
@@ -680,7 +658,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667470568796</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="第十四章学习">
+      <created>1667552259847</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1667552259848</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -699,7 +684,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="修改报错" />
     <MESSAGE value="添加子弹" />
     <MESSAGE value="修复子弹长度问题" />
     <MESSAGE value="设置子弹数目限制，删除子弹" />
@@ -724,7 +708,8 @@
     <MESSAGE value="语法小复习" />
     <MESSAGE value="第十章的模块学习" />
     <MESSAGE value="第十三章的学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="第十三章的学习" />
+    <MESSAGE value="第十四章学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="第十四章学习" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/demo1_py$14_5.coverage" NAME="14-5线程化服务器 Coverage Results" MODIFIED="1667476335698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week11/chapter14" />
@@ -734,6 +719,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$8_4_1.coverage" NAME="8.4.1在函数中修改列表 Coverage Results" MODIFIED="1662628637520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/demo1_py$6_3_2.coverage" NAME="6.3.2 Coverage Results" MODIFIED="1664703559798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6BPFNP/chapter6" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_3.coverage" NAME="8.3返回值 Coverage Results" MODIFIED="1662572947227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
+    <SUITE FILE_PATH="coverage/demo1_py$15_3BeautifulSoup.coverage" NAME="15-3使用BeautifulSoup的屏幕抓取程序 Coverage Results" MODIFIED="1667563374219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week11/chapter15" />
     <SUITE FILE_PATH="coverage/pythonlearning$p145.coverage" NAME="p145练习使用列表 Coverage Results" MODIFIED="1662187270353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
     <SUITE FILE_PATH="coverage/pythonlearning$ship.coverage" NAME="ship Coverage Results" MODIFIED="1663926967462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5alien_invasion" />
     <SUITE FILE_PATH="coverage/demo1_py$shelve.coverage" NAME="shelve返回的对象并非普通的映射 Coverage Results" MODIFIED="1667316788336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week11" />
@@ -788,7 +774,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$p155_9_6.coverage" NAME="p155 9-6 Coverage Results" MODIFIED="1662875704332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
     <SUITE FILE_PATH="coverage/demo1_py$6_4_2.coverage" NAME="6.4.2修改参数 Coverage Results" MODIFIED="1664704391768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6BPFNP/chapter6" />
     <SUITE FILE_PATH="coverage/pythonlearning$alien_invasion__1_.coverage" NAME="alien_invasion (1) Coverage Results" MODIFIED="1663927563638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../源代码文件/chapter_13/ending_the_game" />
-    <SUITE FILE_PATH="coverage/demo1_py$.coverage" NAME="随机存取 Coverage Results" MODIFIED="1667320299403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week11/chapter11" />
+    <SUITE FILE_PATH="coverage/demo1_py$.coverage" NAME="计算幂 Coverage Results" MODIFIED="1667566643117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week11/chapter15" />
     <SUITE FILE_PATH="coverage/pythonlearning$p156.coverage" NAME="p156列表推导例子练习 Coverage Results" MODIFIED="1662284148618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_1.coverage" NAME="8.1定义函数 Coverage Results" MODIFIED="1662563746060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/pythonlearning$10_4_2.coverage" NAME="10.4.2保存和读取用户生成的数据 Coverage Results" MODIFIED="1663602415692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5chapter10" />
