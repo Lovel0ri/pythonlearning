@@ -18,8 +18,21 @@ class Customer:
 
     #注册
     def register(self):
+        #账号密码不能为空
+
         name = input("注册页面\n请输入姓名：")
+        #输入不能为空
+        while True:
+            if name:
+                break
+            else:
+                name = input("注册页面\n请输入姓名：")
         password = input("请输入密码：")
+        while True:
+            if password:
+                break
+            else:
+                password = input("请输入密码：")
         self.name_password[name] = password
         self.name = name
         return "注册成功！"
@@ -51,6 +64,7 @@ class Customer:
 
 
     #存钱
+
     def save_money(self):
         is_register = self.is_register()
         if is_register:
@@ -61,8 +75,9 @@ class Customer:
 
 
     def buy_card(self):
-        is_register = self.is_register()
-        if is_register:
+        is_login = self.login()
+        print(is_login)
+        if is_login:
             card_pirce = 100
             # 检查余额是否足够
             yse_or_no = input("是否购买/续费会员卡？（y/n）")
@@ -86,14 +101,15 @@ class Customer:
 
     #消费记录的查询
     def show_record(self):
-        is_register = self.is_register()
-        if is_register:
+        is_login = self.login()
+        if is_login:
             record = [i for i in self.record]
             if record:
                 for i in record:
                     return i
             else:
                 return "无消费记录！"
+
 
 
     #个人信息
@@ -209,7 +225,11 @@ class manager:
     def run(self):
         while True:
             self.show_menu()
-            num = int(input("请输入功能序号："))
+            try:
+                num = int(input("请输入功能序号："))
+            except Exception as e:
+                print("输入错误")
+                continue
             if num == 1:
                 self.add_customer()
             elif num == 2:
@@ -261,11 +281,16 @@ def main():
 
 
 while True:
+
     print("1.教练")
     print("2.会员")
     print("3.管理员")
     print("4.退出")
-    num = int(input("请输入功能序号："))
+    try:
+        num = int(input("请输入功能序号："))
+    except Exception as e:
+        print("输入错误")
+        continue
     if num == 1:
         coach = Coach()
         coach.run()
@@ -283,7 +308,11 @@ while True:
                     print("3.查看记录")
                     print("4.查看个人信息")
                     print("5.退出")
-                    num = int(input("请输入功能序号："))
+                    try:
+                        num = int(input("请输入功能序号："))
+                    except Exception as e:
+                        print("输入错误")
+                        continue
                     if num == 1:
                         cust.save_money()
                     elif num == 2:
