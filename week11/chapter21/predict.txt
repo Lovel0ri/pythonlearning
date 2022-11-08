@@ -1,0 +1,36 @@
+# Prepared by the US Dept. of Commerce, NOAA, Space Weather Prediction Center
+# Product description and SWPC contact on the Web
+# https://www.swpc.noaa.gov/content/subscription-services
+#
+#      27-day Space Weather Outlook Table
+#                Issued 2022-10-31
+#
+#   UTC      Radio Flux   Planetary   Largest
+#  Date       10.7 cm      A Index    Kp Index
+2022 Oct 31     130          15          4
+2022 Nov 01     130          18          4
+2022 Nov 02     130          12          4
+2022 Nov 03     130          10          3
+2022 Nov 04     130          12          4
+2022 Nov 05     128          20          5
+2022 Nov 06     126          15          4
+2022 Nov 07     126           5          2
+2022 Nov 08     124           5          2
+2022 Nov 09     126           5          2
+2022 Nov 10     126          18          5
+2022 Nov 11     126          18          4
+2022 Nov 12     128          15          4
+2022 Nov 13     128           5          2
+2022 Nov 14     126           5          2
+2022 Nov 15     126           5          2
+2022 Nov 16     124           5          2
+2022 Nov 17     124           5          2
+2022 Nov 18     124          25          5
+2022 Nov 19     124          15          4
+2022 Nov 20     126           8          3
+2022 Nov 21     126           5          2
+2022 Nov 22     128           5          2
+2022 Nov 23     128           8          3
+2022 Nov 24     130          15          4
+2022 Nov 25     130          25          5
+2022 Nov 26     130          15          4
