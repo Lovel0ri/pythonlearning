@@ -5,22 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week11/chapter19/area.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter19/使用ConfigParser的程序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter19/使用模块logging的程序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter20/simple_markup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter20/test_input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter20/util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter21/hello.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter21/hello_report.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter21/predict.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter24/14-2最简单的客户端.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter24/24-4包含chatsession类的服务器程序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter24/CNKI-20221106233042609.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter24/包含一些清理代码的基本服务器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter24/客户端2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter24/客户端3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week11/chapter24/极简的服务器程序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter1/模拟数值类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter1/纸牌.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter2/2-16字节码.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter2/insort可以保持有序序列的顺序.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter2/list.sort方法和内置函数sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter2/一个谜题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter2/使用列表推导计算笛卡尔积.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter2/具名元组.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter2/切片.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter2/对序列使用加和乘.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter2/序列的增量赋值.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter2/建立由列表组成的列表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter2/根据一个分数，找到它对应的成绩.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter2/浮点型数组的创建.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,8 +93,8 @@
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.24-4包含chatsession类的服务器程序">
-    <configuration name="测试01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.浮点型数组的创建">
+    <configuration name="浮点型数组的创建" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,12 +102,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week11/chapter24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12/chapter2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week11/chapter24/测试01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week12/chapter2/浮点型数组的创建.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14-2最简单的客户端" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2-16字节码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,12 +124,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week11/chapter24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12/chapter2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week11/chapter24/14-2最简单的客户端.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week12/chapter2/2-16字节码.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="客户端2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="根据一个分数，找到它对应的成绩" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,12 +146,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week11/chapter24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12/chapter2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week11/chapter24/客户端2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week12/chapter2/根据一个分数，找到它对应的成绩.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="24-4包含chatsession类的服务器程序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="使用列表推导计算笛卡尔积" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,12 +168,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week11/chapter24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12/chapter2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week11/chapter24/24-4包含chatsession类的服务器程序.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week12/chapter2/使用列表推导计算笛卡尔积.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="客户端3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="模拟数值类型" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,12 +190,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week11/chapter24" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12/chapter1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week11/chapter24/客户端3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week12/chapter1/模拟数值类型.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="insort可以保持有序序列的顺序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12/chapter2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week12/chapter2/insort可以保持有序序列的顺序.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="list.sort方法和内置函数sorted" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12/chapter2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week12/chapter2/list.sort方法和内置函数sorted.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,11 +250,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.客户端2" />
-        <item itemvalue="Python.24-4包含chatsession类的服务器程序" />
-        <item itemvalue="Python.客户端3" />
-        <item itemvalue="Python.测试01" />
-        <item itemvalue="Python.14-2最简单的客户端" />
+        <item itemvalue="Python.浮点型数组的创建" />
+        <item itemvalue="Python.insort可以保持有序序列的顺序" />
+        <item itemvalue="Python.根据一个分数，找到它对应的成绩" />
+        <item itemvalue="Python.list.sort方法和内置函数sorted" />
+        <item itemvalue="Python.2-16字节码" />
       </list>
     </recent_temporary>
   </component>
@@ -348,14 +390,9 @@
       <workItem from="1667822824414" duration="6000" />
       <workItem from="1667822841962" duration="85000" />
       <workItem from="1667837131509" duration="1323000" />
-      <workItem from="1667882699965" duration="2133000" />
-    </task>
-    <task id="LOCAL-00083" summary="删除多余文件夹">
-      <created>1663061201050</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1663061201051</updated>
+      <workItem from="1667882699965" duration="3226000" />
+      <workItem from="1667917735816" duration="7283000" />
+      <workItem from="1667969063175" duration="12521000" />
     </task>
     <task id="LOCAL-00084" summary="10.1.7圆周率和生日">
       <created>1663519936760</created>
@@ -693,7 +730,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667714613336</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="第24章学习">
+      <created>1667884922148</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1667884922148</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -712,7 +756,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="设置子弹数目限制，删除子弹" />
     <MESSAGE value="复习函数和模块" />
     <MESSAGE value="复习return函数，以及从返回的列表和字典中取值" />
     <MESSAGE value="创建电话薄数据库（字典）" />
@@ -737,7 +780,8 @@
     <MESSAGE value="第十四章学习" />
     <MESSAGE value="第十五章学习" />
     <MESSAGE value="第16,17,18章学习" />
-    <option name="LAST_COMMIT_MESSAGE" value="第16,17,18章学习" />
+    <MESSAGE value="第24章学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="第24章学习" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/demo1_py$14_5.coverage" NAME="14-5线程化服务器 Coverage Results" MODIFIED="1667476335698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week11/chapter14" />
@@ -803,9 +847,10 @@
     <SUITE FILE_PATH="coverage/pythonlearning$p155_9_6.coverage" NAME="p155 9-6 Coverage Results" MODIFIED="1662875704332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
     <SUITE FILE_PATH="coverage/demo1_py$6_4_2.coverage" NAME="6.4.2修改参数 Coverage Results" MODIFIED="1664704391768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6BPFNP/chapter6" />
     <SUITE FILE_PATH="coverage/pythonlearning$alien_invasion__1_.coverage" NAME="alien_invasion (1) Coverage Results" MODIFIED="1663927563638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../源代码文件/chapter_13/ending_the_game" />
-    <SUITE FILE_PATH="coverage/demo1_py$.coverage" NAME="包含一些清理代码的基本服务器 Coverage Results" MODIFIED="1667724431531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week11/chapter24" />
+    <SUITE FILE_PATH="coverage/demo1_py$.coverage" NAME="浮点型数组的创建 Coverage Results" MODIFIED="1667986197947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week12/chapter2" />
     <SUITE FILE_PATH="coverage/pythonlearning$p156.coverage" NAME="p156列表推导例子练习 Coverage Results" MODIFIED="1662284148618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_1.coverage" NAME="8.1定义函数 Coverage Results" MODIFIED="1662563746060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
+    <SUITE FILE_PATH="coverage/demo1_py$2_16.coverage" NAME="2-16字节码 Coverage Results" MODIFIED="1667976138247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week12/chapter2" />
     <SUITE FILE_PATH="coverage/pythonlearning$10_4_2.coverage" NAME="10.4.2保存和读取用户生成的数据 Coverage Results" MODIFIED="1663602415692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5chapter10" />
     <SUITE FILE_PATH="coverage/pythonlearning$6_4_3.coverage" NAME="6.4.3在字典中存储字典 Coverage Results" MODIFIED="1662558255558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter 6 dict" />
     <SUITE FILE_PATH="coverage/demo1_py$11_2_1.coverage" NAME="11.2.1读取和写入 Coverage Results" MODIFIED="1667319967989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week11/chapter11" />
@@ -818,6 +863,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$p117.coverage" NAME="p117 Coverage Results" MODIFIED="1662564692166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/pythonlearning$p134.coverage" NAME="p134练习 Coverage Results" MODIFIED="1662652210334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/demo1_py$heap.coverage" NAME="堆heap Coverage Results" MODIFIED="1667313031271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week11" />
+    <SUITE FILE_PATH="coverage/demo1_py$list_sortsorted.coverage" NAME="list.sort方法和内置函数sorted Coverage Results" MODIFIED="1667978116934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week12/chapter2" />
     <SUITE FILE_PATH="coverage/demo1_py$maxnum.coverage" NAME="maxnum Coverage Results" MODIFIED="1666760201118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week10" />
     <SUITE FILE_PATH="coverage/pythonlearning$timetable.coverage" NAME="timetable Coverage Results" MODIFIED="1662311109892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../2022-python" />
     <SUITE FILE_PATH="coverage/pythonlearning$p140.coverage" NAME="p140 Coverage Results" MODIFIED="1662186422463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
@@ -828,6 +874,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$6_2_6.coverage" NAME="6.2.6有类似对象组成的字典 Coverage Results" MODIFIED="1662292961557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 6 dict" />
     <SUITE FILE_PATH="coverage/pythonlearning$file_reader.coverage" NAME="file_reader Coverage Results" MODIFIED="1663518294390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week5chapter10" />
     <SUITE FILE_PATH="coverage/demo1_py$14_2.coverage" NAME="14-2最简单的客户端 Coverage Results" MODIFIED="1667724434356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week11/chapter24" />
+    <SUITE FILE_PATH="coverage/demo1_py$insort.coverage" NAME="insort可以保持有序序列的顺序 Coverage Results" MODIFIED="1667982737534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week12/chapter2" />
     <SUITE FILE_PATH="coverage/demo1_py$flatten.coverage" NAME="flatten Coverage Results" MODIFIED="1666448344863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week8" />
     <SUITE FILE_PATH="coverage/pythonlearning$9_12.coverage" NAME="9-12 Coverage Results" MODIFIED="1662882846774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_5_2.coverage" NAME="8.5.2使用任意数量的关键字实参 Coverage Results" MODIFIED="1662647730935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
