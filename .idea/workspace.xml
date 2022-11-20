@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1baa3a30-42a6-4ed0-ae48-6d008d7b0102" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week12/chapter2/使用双向队列.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week12/chapter2/内存视图.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week12/chapter2/对numpy进行行和列的基本操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week12/lova.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/酒店管理系统/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/酒店管理系统/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week12/chapter3/字典推导的应用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week13/bottles.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week13/使用UserDict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week13/查看两种方法构建集合的区别.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week13/集合.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,8 +84,8 @@
       <recent name="E:\网络与新媒体\github\pythonlearning\week2\Head First Python\chapter5\get_coach_data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.使用双向队列">
-    <configuration name="浮点型数组的创建" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.查看两种方法构建集合的区别">
+    <configuration name="集合" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,12 +93,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12/chapter2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week12/chapter2/浮点型数组的创建.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week13/集合.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="查看两种方法构建集合的区别" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week13/查看两种方法构建集合的区别.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="使用UserDict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week13" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week13/使用UserDict.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,6 +165,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week12/chapter2/使用双向队列.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="字典推导的应用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonlearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12/chapter3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week12/chapter3/字典推导的应用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -218,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="insort可以保持有序序列的顺序" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="bottles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonlearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,34 +291,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12/chapter2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week13" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week12/chapter2/insort可以保持有序序列的顺序.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lova" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonlearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/week12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week12/lova.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/week13/bottles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,11 +329,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.使用双向队列" />
+        <item itemvalue="Python.查看两种方法构建集合的区别" />
+        <item itemvalue="Python.集合" />
+        <item itemvalue="Python.使用UserDict" />
+        <item itemvalue="Python.bottles" />
         <item itemvalue="Python.对numpy进行行和列的基本操作" />
-        <item itemvalue="Python.lova" />
-        <item itemvalue="Python.浮点型数组的创建" />
-        <item itemvalue="Python.insort可以保持有序序列的顺序" />
       </list>
     </recent_temporary>
   </component>
@@ -434,14 +477,10 @@
       <workItem from="1668273246716" duration="127000" />
       <workItem from="1668273415482" duration="109000" />
       <workItem from="1668312393909" duration="9000" />
-      <workItem from="1668345006714" duration="1473000" />
-    </task>
-    <task id="LOCAL-00085" summary="drop掉书本源代码文件">
-      <created>1663579477015</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1663579477015</updated>
+      <workItem from="1668345006714" duration="3177000" />
+      <workItem from="1668521323677" duration="10000" />
+      <workItem from="1668783132473" duration="1174000" />
+      <workItem from="1668927314389" duration="4172000" />
     </task>
     <task id="LOCAL-00086" summary="p171练习">
       <created>1663596835133</created>
@@ -779,7 +818,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667986368433</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="流畅的python第二章的学习">
+      <created>1668347290837</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1668347290837</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -879,6 +925,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$p140_p145_p152.coverage" NAME="p140+p145+p152 Coverage Results" MODIFIED="1662308003236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
     <SUITE FILE_PATH="coverage/demo1_py$6_1.coverage" NAME="6.1 Coverage Results" MODIFIED="1664703450967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6BPFNP/chapter6" />
     <SUITE FILE_PATH="coverage/demo1_py$_property.coverage" NAME="@property装饰器 Coverage Results" MODIFIED="1665812921713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week8" />
+    <SUITE FILE_PATH="coverage/demo1_py$UserDict.coverage" NAME="使用UserDict Coverage Results" MODIFIED="1668927609755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week13" />
     <SUITE FILE_PATH="coverage/pythonlearning$p149_def.coverage" NAME="p149 def Coverage Results" MODIFIED="1663046931079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week4 head fitst chapter4-5" />
     <SUITE FILE_PATH="coverage/demo1_py$3.coverage" NAME="客户端3 Coverage Results" MODIFIED="1667883761787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week11/chapter24" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_4.coverage" NAME="8.4传递列表 Coverage Results" MODIFIED="1662624968722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
@@ -890,7 +937,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$p155_9_6.coverage" NAME="p155 9-6 Coverage Results" MODIFIED="1662875704332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
     <SUITE FILE_PATH="coverage/demo1_py$6_4_2.coverage" NAME="6.4.2修改参数 Coverage Results" MODIFIED="1664704391768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week6BPFNP/chapter6" />
     <SUITE FILE_PATH="coverage/pythonlearning$alien_invasion__1_.coverage" NAME="alien_invasion (1) Coverage Results" MODIFIED="1663927563638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../源代码文件/chapter_13/ending_the_game" />
-    <SUITE FILE_PATH="coverage/demo1_py$.coverage" NAME="使用双向队列 Coverage Results" MODIFIED="1668345293814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week12/chapter2" />
+    <SUITE FILE_PATH="coverage/demo1_py$.coverage" NAME="查看两种方法构建集合的区别 Coverage Results" MODIFIED="1668933355513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week13" />
     <SUITE FILE_PATH="coverage/pythonlearning$p156.coverage" NAME="p156列表推导例子练习 Coverage Results" MODIFIED="1662284148618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/Head First Python/chapter5" />
     <SUITE FILE_PATH="coverage/pythonlearning$8_1.coverage" NAME="8.1定义函数 Coverage Results" MODIFIED="1662563746060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/demo1_py$2_16.coverage" NAME="2-16字节码 Coverage Results" MODIFIED="1667976138247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week12/chapter2" />
@@ -927,6 +974,7 @@
     <SUITE FILE_PATH="coverage/pythonlearning$8_3_4while.coverage" NAME="8.3.4结合使用函数和while循环 Coverage Results" MODIFIED="1662621802072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter8" />
     <SUITE FILE_PATH="coverage/demo1_py$name_list.coverage" NAME="name_list Coverage Results" MODIFIED="1666535454897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week9" />
     <SUITE FILE_PATH="coverage/pythonlearning$my_user.coverage" NAME="my_user Coverage Results" MODIFIED="1662880026724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week3 PBItoP/chapter9" />
+    <SUITE FILE_PATH="coverage/demo1_py$bottles.coverage" NAME="bottles Coverage Results" MODIFIED="1668784169582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week13" />
     <SUITE FILE_PATH="coverage/demo1_py$2.coverage" NAME="客户端2 Coverage Results" MODIFIED="1667884249761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week11/chapter24" />
     <SUITE FILE_PATH="coverage/pythonlearning$p30.coverage" NAME="p30 Coverage Results" MODIFIED="1662377319775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week2/PBItoP/chapter 3 list" />
     <SUITE FILE_PATH="coverage/demo1_py$24_4chatsession.coverage" NAME="24-4包含chatsession类的服务器程序 Coverage Results" MODIFIED="1667884241284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/week11/chapter24" />
